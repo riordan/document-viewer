@@ -40,9 +40,8 @@ DV.model.Pages.prototype = {
 
   // Get the complete image URL for a particular page.
   imageURL: function(index) {
-    //var url  = this.viewer.schema.document.resources.page.image;
-    var url = 'http://j2k.repo.nypl.org/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=urn:uuid:{page}&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.scale={size}'
-    var djID =["ae6c1dd9-5783-f55a-e040-e00a18062565","ae6c1dd9-5784-f55a-e040-e00a18062565"]
+    var url  = this.viewer.schema.document.resources.page.image;
+    var djID =this.viewer.schema.document.resources.djID;
     var size = this.zoomLevel > this.BASE_WIDTH ? '1000,0' : '700,0';
     var pageNumber = index + 1;
     if (this.viewer.schema.document.resources.page.zeropad) pageNumber = this.zeroPad(pageNumber, 5);
