@@ -25,5395 +25,5395 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Earl, Robert",
-         "pages":"1-45"
+         "page":1
       },
       {
          "title":"Fowler, Thomas P.",
-         "pages":"46-48"
+         "page":46
       },
       {
          "title":"Drake, Thomas",
-         "pages":"49-53"
+         "page":49
       },
       {
          "title":"Merrick, R. T.",
-         "pages":"54-66"
+         "page":54
       },
       {
          "title":"Abbot, J. G., 1875-1878",
-         "pages":"67-87"
+         "page":67
       },
       {
          "title":"West, Jesse",
-         "pages":"88-94"
+         "page":88
       },
       {
          "title":"Wayland, Francis",
-         "pages":"95-100"
+         "page":95
       },
       {
          "title":"Huey, James Buchanan",
-         "pages":"101-109"
+         "page":101
       },
       {
          "title":"Campbell, Edward",
-         "pages":"110-110"
+         "page":110
       },
       {
          "title":"Alfred, Frank H., 1880",
-         "pages":"111-115"
+         "page":111
       },
       {
          "title":"Swayne, Wager",
-         "pages":"116-127"
+         "page":116
       },
       {
          "title":"Butler, H.",
-         "pages":"128-142"
+         "page":128
       },
       {
          "title":"Conner, William C.",
-         "pages":"143-152"
+         "page":143
       },
       {
          "title":"Roosevelt, Theodore",
-         "pages":"153-170"
+         "page":153
       },
       {
          "title":"Cambreling, Churchill C.",
-         "pages":"171-176"
+         "page":171
       },
       {
          "title":"National Johnson Club",
-         "pages":"177-179"
+         "page":177
       },
       {
          "title":"Sullivan, T. J.",
-         "pages":"180-182"
+         "page":180
       },
       {
          "title":"Murphy, E.",
-         "pages":"183-184"
+         "page":183
       },
       {
          "title":"Phelps, Edward J.",
-         "pages":"185-195"
+         "page":185
       },
       {
          "title":"Burke, John M.",
-         "pages":"196-196"
+         "page":196
       },
       {
          "title":"Bergen, Frank",
-         "pages":"197-197"
+         "page":197
       },
       {
          "title":"Halpine, Charles G.",
-         "pages":"198-212"
+         "page":198
       },
       {
          "title":"Hogeboom, Henry H.",
-         "pages":"213-224"
+         "page":213
       },
       {
          "title":"Randall, Alexander Williams",
-         "pages":"225-226"
+         "page":225
       },
       {
          "title":"Newell, W. C.",
-         "pages":"227-231"
+         "page":227
       },
       {
          "title":"Doremus, Robert Ogden",
-         "pages":"232-236"
+         "page":232
       },
       {
          "title":"Ashley, Ossian Doolittle, 1886",
-         "pages":"237-238"
+         "page":237
       },
       {
          "title":"Vanderpoel, Aaron J.",
-         "pages":"239-244"
+         "page":239
       },
       {
          "title":"Christie, David",
-         "pages":"245-251"
+         "page":245
       },
       {
          "title":"Phelps, Benjamin K.",
-         "pages":"252-269"
+         "page":252
       },
       {
          "title":"Goudy, C. H.",
-         "pages":"270-271"
+         "page":270
       },
       {
          "title":"Tremain, Alva H.",
-         "pages":"272-274"
+         "page":272
       },
       {
          "title":"Gill, Fearing",
-         "pages":"275-279"
+         "page":275
       },
       {
          "title":"Levy, S.S.",
-         "pages":"280-281"
+         "page":280
       },
       {
          "title":"Hammond, L. H.",
-         "pages":"282-287"
+         "page":282
       },
       {
          "title":"Taylor, Moses",
-         "pages":"288-289"
+         "page":288
       },
       {
          "title":"Bryant, F. F.",
-         "pages":"290-293"
+         "page":290
       },
       {
          "title":"Dobbin, George W.",
-         "pages":"294-312"
+         "page":294
       },
       {
          "title":"Blatchford, Samuel M.",
-         "pages":"313-321"
+         "page":313
       },
       {
          "title":"Kennaday, John R.",
-         "pages":"322-323"
+         "page":322
       },
       {
          "title":"Blair, Franklin P.",
-         "pages":"324-356"
+         "page":324
       },
       {
          "title":"Tiemann, Daniel F.",
-         "pages":"357-358"
+         "page":357
       },
       {
          "title":"Doane, William C.",
-         "pages":"359-366"
+         "page":359
       },
       {
          "title":"Lynch, Anne Charlotte",
-         "pages":"367-371"
+         "page":367
       },
       {
          "title":"Mason, C.",
-         "pages":"372-373"
+         "page":372
       },
       {
          "title":"Arnold & Company, 1877-1878",
-         "pages":"374-375"
+         "page":374
       },
       {
          "title":"Edmonds, Laura",
-         "pages":"376-376"
+         "page":376
       },
       {
          "title":"Eldridge, Titus B.",
-         "pages":"377-382"
+         "page":377
       },
       {
          "title":"Burt, Addison M.",
-         "pages":"383-384"
+         "page":383
       },
       {
          "title":"Hooker, John",
-         "pages":"385-389"
+         "page":385
       },
       {
          "title":"Eggleston, George Cary",
-         "pages":"390-393"
+         "page":390
       },
       {
          "title":"Osborn, Albert H.",
-         "pages":"394-402"
+         "page":394
       },
       {
          "title":"Bryant, Carolan O'Brien",
-         "pages":"403-416"
+         "page":403
       },
       {
          "title":"Comstock, George",
-         "pages":"417-446"
+         "page":417
       },
       {
          "title":"Ewell, Richard Stoddert",
-         "pages":"447-449"
+         "page":447
       },
       {
          "title":"Bledsoe, William C.",
-         "pages":"450-451"
+         "page":450
       },
       {
          "title":"Perrin, E. O.",
-         "pages":"452-455"
+         "page":452
       },
       {
          "title":"Havemeyer, Henry",
-         "pages":"456-462"
+         "page":456
       },
       {
          "title":"Pryer, Mary Margaretta",
-         "pages":"463-464"
+         "page":463
       },
       {
          "title":"Allen, Ethan A., 1876",
-         "pages":"465-472"
+         "page":465
       },
       {
          "title":"Bell (first name unknown)",
-         "pages":"473-478"
+         "page":473
       },
       {
          "title":"Fenton, Myles",
-         "pages":"479-479"
+         "page":479
       },
       {
          "title":"Perkins, Theodore B.",
-         "pages":"480-481"
+         "page":480
       },
       {
          "title":"Bushnell, C. S.",
-         "pages":"482-484"
+         "page":482
       },
       {
          "title":"Thompson, Jonathan",
-         "pages":"485-485"
+         "page":485
       },
       {
          "title":"Rush, Benjamin",
-         "pages":"486-489"
+         "page":486
       },
       {
          "title":"Parkhurst, Charles Henry",
-         "pages":"490-492"
+         "page":490
       },
       {
          "title":"Eames, C.",
-         "pages":"493-500"
+         "page":493
       },
       {
          "title":"Wakeman, T. B.",
-         "pages":"501-505"
+         "page":501
       },
       {
          "title":"Hall, Charles M.",
-         "pages":"506-512"
+         "page":506
       },
       {
          "title":"Speer, Charles",
-         "pages":"513-522"
+         "page":513
       },
       {
          "title":"Ludlow, William Handy",
-         "pages":"523-542"
+         "page":523
       },
       {
          "title":"McHenry, James",
-         "pages":"543-543"
+         "page":543
       },
       {
          "title":"White, B.",
-         "pages":"544-547"
+         "page":544
       },
       {
          "title":"Hogeboom, Charles L.",
-         "pages":"548-548"
+         "page":548
       },
       {
          "title":"Peckham, Wheeler H.",
-         "pages":"549-588"
+         "page":549
       },
       {
          "title":"French, S. Bassett",
-         "pages":"589-598"
+         "page":589
       },
       {
          "title":"Green, John A.",
-         "pages":"599-600"
+         "page":599
       },
       {
          "title":"Power, M. J.",
-         "pages":"601-602"
+         "page":601
       },
       {
          "title":"Schurz, Karl",
-         "pages":"603-605"
+         "page":603
       },
       {
          "title":"McGill, Alexander T.",
-         "pages":"606-608"
+         "page":606
       },
       {
          "title":"Taylor, John J.",
-         "pages":"609-615"
+         "page":609
       },
       {
          "title":"Bryant, Julia",
-         "pages":"616-622"
+         "page":616
       },
       {
          "title":"Wheeler, J. D.",
-         "pages":"623-624"
+         "page":623
       },
       {
          "title":"Hamilton & Parry",
-         "pages":"625-626"
+         "page":625
       },
       {
          "title":"Hanna, B. W.",
-         "pages":"627-627"
+         "page":627
       },
       {
          "title":"Huntington, D.",
-         "pages":"628-635"
+         "page":628
       },
       {
          "title":"Churchill, D. A.",
-         "pages":"636-637"
+         "page":636
       },
       {
          "title":"Manning, A. R.",
-         "pages":"638-639"
+         "page":638
       },
       {
          "title":"Morgan, John T.",
-         "pages":"640-645"
+         "page":640
       },
       {
          "title":"Gerard, James W.",
-         "pages":"646-653"
+         "page":646
       },
       {
          "title":"Western, H.M.",
-         "pages":"654-656"
+         "page":654
       },
       {
          "title":"O'Hurley, H.",
-         "pages":"657-658"
+         "page":657
       },
       {
          "title":"McClellan, George B.",
-         "pages":"659-666"
+         "page":659
       },
       {
          "title":"Flagg, Azariah C.",
-         "pages":"667-683"
+         "page":667
       },
       {
          "title":"Swank, James M.",
-         "pages":"684-685"
+         "page":684
       },
       {
          "title":"O'Gorman, Richard",
-         "pages":"686-691"
+         "page":686
       },
       {
          "title":"Morgan, M.",
-         "pages":"692-694"
+         "page":692
       },
       {
          "title":"Garner, J. W.",
-         "pages":"695-695"
+         "page":695
       },
       {
          "title":"Eighteenth Ward Democrats",
-         "pages":"696-698"
+         "page":696
       },
       {
          "title":"Waldo, A. B.",
-         "pages":"699-700"
+         "page":699
       },
       {
          "title":"Chester, Joseph L.",
-         "pages":"701-712"
+         "page":701
       },
       {
          "title":"Jordan, Conrad N.",
-         "pages":"713-726"
+         "page":713
       },
       {
          "title":"Fuller, Melville W.",
-         "pages":"727-741"
+         "page":727
       },
       {
          "title":"Jenks, George A.",
-         "pages":"742-744"
+         "page":742
       },
       {
          "title":"Miller, George L.",
-         "pages":"745-787"
+         "page":745
       },
       {
          "title":"King, Preston",
-         "pages":"788-811"
+         "page":788
       },
       {
          "title":"Gould, Jacob",
-         "pages":"812-820"
+         "page":812
       },
       {
          "title":"Holden, J.P.G.",
-         "pages":"821-825"
+         "page":821
       },
       {
          "title":"The Tammany Society",
-         "pages":"826-915"
+         "page":826
       },
       {
          "title":"Kennedy, John S",
-         "pages":"916-917"
+         "page":916
       },
       {
          "title":"O'Brien, John",
-         "pages":"918-920"
+         "page":918
       },
       {
          "title":"Davis, George S.",
-         "pages":"921-921"
+         "page":921
       },
       {
          "title":"Grant, Ulysses S.",
-         "pages":"922-923"
+         "page":922
       },
       {
          "title":"Myers, T. Bailey",
-         "pages":"924-934"
+         "page":924
       },
       {
          "title":"Page, A. S.",
-         "pages":"935-935"
+         "page":935
       },
       {
          "title":"Buckalow, C.R.",
-         "pages":"936-939"
+         "page":936
       },
       {
          "title":"Bigelow, Horatio",
-         "pages":"940-949"
+         "page":940
       },
       {
          "title":"Ford, Patrick",
-         "pages":"950-953"
+         "page":950
       },
       {
          "title":"Hampton, Wade",
-         "pages":"954-957"
+         "page":954
       },
       {
          "title":"Havemeyer, William F.",
-         "pages":"958-1064"
+         "page":958
       },
       {
          "title":"Spofford, (First name unknown)",
-         "pages":"1065-1066"
+         "page":1065
       },
       {
          "title":"Ogden, William B.",
-         "pages":"1067-1110"
+         "page":1067
       },
       {
          "title":"Eltinge, Norman",
-         "pages":"1111-1114"
+         "page":1111
       },
       {
          "title":"Vache, Alexander F.",
-         "pages":"1115-1116"
+         "page":1115
       },
       {
          "title":"Abbett, Leon, 1884",
-         "pages":"1117-1117"
+         "page":1117
       },
       {
          "title":"Duncan, William Butler",
-         "pages":"1118-1128"
+         "page":1118
       },
       {
          "title":"Hoffman, John T.",
-         "pages":"1129-1203"
+         "page":1129
       },
       {
          "title":"Coleman, William A.",
-         "pages":"1204-1206"
+         "page":1204
       },
       {
          "title":"Ketchum, Hiram",
-         "pages":"1207-1223"
+         "page":1207
       },
       {
          "title":"Scott, Thomas A.",
-         "pages":"1224-1284"
+         "page":1224
       },
       {
          "title":"Pulitzer, Joseph",
-         "pages":"1285-1294"
+         "page":1285
       },
       {
          "title":"Barnard, Frederick A. P., 1874",
-         "pages":"1295-1297"
+         "page":1295
       },
       {
          "title":"Bates, J. F., 1878",
-         "pages":"1298-1299"
+         "page":1298
       },
       {
          "title":"Porter, Andrew D.",
-         "pages":"1300-1301"
+         "page":1300
       },
       {
          "title":"Green, Andrew E.",
-         "pages":"1302-1304"
+         "page":1302
       },
       {
          "title":"Dorr, J. O.",
-         "pages":"1305-1306"
+         "page":1305
       },
       {
          "title":"Mason, J. M.",
-         "pages":"1307-1309"
+         "page":1307
       },
       {
          "title":"Abbry, R., 1868",
-         "pages":"1310-1312"
+         "page":1310
       },
       {
          "title":"Purdy, Elijah F.",
-         "pages":"1313-1328"
+         "page":1313
       },
       {
          "title":"Harris, Ira",
-         "pages":"1329-1331"
+         "page":1329
       },
       {
          "title":"Howell, Clark",
-         "pages":"1332-1336"
+         "page":1332
       },
       {
          "title":"Bergh, Henry",
-         "pages":"1337-1348"
+         "page":1337
       },
       {
          "title":"Boucicault, Dion",
-         "pages":"1349-1351"
+         "page":1349
       },
       {
          "title":"Botta, V.",
-         "pages":"1352-1352"
+         "page":1352
       },
       {
          "title":"Knox, John Jay",
-         "pages":"1353-1355"
+         "page":1353
       },
       {
          "title":"Brennan, Thomas S.",
-         "pages":"1356-1357"
+         "page":1356
       },
       {
          "title":"Taylor, R.",
-         "pages":"1358-1366"
+         "page":1358
       },
       {
          "title":"Burroughs, Peter F.",
-         "pages":"1367-1377"
+         "page":1367
       },
       {
          "title":"Snowden, C. A.",
-         "pages":"1378-1385"
+         "page":1378
       },
       {
          "title":"Moody, D. L.",
-         "pages":"1386-1390"
+         "page":1386
       },
       {
          "title":"Lapham, George H.",
-         "pages":"1391-1392"
+         "page":1391
       },
       {
          "title":"Vaux, Richard",
-         "pages":"1393-1403"
+         "page":1393
       },
       {
          "title":"Webster, Sidney",
-         "pages":"1404-1416"
+         "page":1404
       },
       {
          "title":"White, Andrew Dickinson",
-         "pages":"1417-1423"
+         "page":1417
       },
       {
          "title":"Blair, W.H.",
-         "pages":"1424-1424"
+         "page":1424
       },
       {
          "title":"Marshall, Charles H.",
-         "pages":"1425-1440"
+         "page":1425
       },
       {
          "title":"Cass, George W.",
-         "pages":"1441-1541"
+         "page":1441
       },
       {
          "title":"Valentine, D. T.",
-         "pages":"1542-1545"
+         "page":1542
       },
       {
          "title":"Bar Association of New York City, 1876",
-         "pages":"1546-1546"
+         "page":1546
       },
       {
          "title":"Anderson, Charles E., 1842",
-         "pages":"1547-1552"
+         "page":1547
       },
       {
          "title":"Adams, Charles Francis, 1876-1877",
-         "pages":"1553-1569"
+         "page":1553
       },
       {
          "title":"Rice, William G.",
-         "pages":"1570-1571"
+         "page":1570
       },
       {
          "title":"Harris, Phillip P.",
-         "pages":"1572-1574"
+         "page":1572
       },
       {
          "title":"Scribner, G. Hilton",
-         "pages":"1575-1579"
+         "page":1575
       },
       {
          "title":"Baker, George C., 1866",
-         "pages":"1580-1581"
+         "page":1580
       },
       {
          "title":"Apgar, Edgar K., 1874-1882",
-         "pages":"1582-1622"
+         "page":1582
       },
       {
          "title":"Wilson, Matthew",
-         "pages":"1623-1624"
+         "page":1623
       },
       {
          "title":"Townsend, Thomas S.",
-         "pages":"1625-1629"
+         "page":1625
       },
       {
          "title":"Wilson, R. L.",
-         "pages":"1630-1630"
+         "page":1630
       },
       {
          "title":"Bowden, Samuel",
-         "pages":"1631-1633"
+         "page":1631
       },
       {
          "title":"Potter, Howard",
-         "pages":"1634-1662"
+         "page":1634
       },
       {
          "title":"Rhett, Robert Barnwell",
-         "pages":"1663-1671"
+         "page":1663
       },
       {
          "title":"Fay, Joseph Story",
-         "pages":"1672-1677"
+         "page":1672
       },
       {
          "title":"Frott, Hermann",
-         "pages":"1678-1679"
+         "page":1678
       },
       {
          "title":"Hunter, John",
-         "pages":"1680-1684"
+         "page":1680
       },
       {
          "title":"Kern, J.",
-         "pages":"1685-1686"
+         "page":1685
       },
       {
          "title":"Baiber, J., 1856",
-         "pages":"1687-1689"
+         "page":1687
       },
       {
          "title":"Williams, J. L.",
-         "pages":"1690-1691"
+         "page":1690
       },
       {
          "title":"Dickenson, Don M.",
-         "pages":"1692-1693"
+         "page":1692
       },
       {
          "title":"Money, Henry de Soto",
-         "pages":"1694-1699"
+         "page":1694
       },
       {
          "title":"Parsons, John E.",
-         "pages":"1700-1707"
+         "page":1700
       },
       {
          "title":"Broadhead, James O.",
-         "pages":"1708-1715"
+         "page":1708
       },
       {
          "title":"Bogley, Lewis",
-         "pages":"1716-1718"
+         "page":1716
       },
       {
          "title":"Dorsheimer, William",
-         "pages":"1719-1761"
+         "page":1719
       },
       {
          "title":"Griffith, William R.",
-         "pages":"1762-1762"
+         "page":1762
       },
       {
          "title":"Butler, William S. ",
-         "pages":"1763-1764"
+         "page":1763
       },
       {
          "title":"Stephens, Stephen D. Jr.",
-         "pages":"1765-1767"
+         "page":1765
       },
       {
          "title":"Diossy, John T.",
-         "pages":"1768-1769"
+         "page":1768
       },
       {
          "title":"Sumner, William Graham",
-         "pages":"1770-1771"
+         "page":1770
       },
       {
          "title":"Henry, R. H.",
-         "pages":"1772-1791"
+         "page":1772
       },
       {
          "title":"Lacombe, Emile Henry",
-         "pages":"1792-1795"
+         "page":1792
       },
       {
          "title":"Lott, John A.",
-         "pages":"1796-1807"
+         "page":1796
       },
       {
          "title":"New York State Soldiers Depot",
-         "pages":"1808-1811"
+         "page":1808
       },
       {
          "title":"Walson, Thomas H.",
-         "pages":"1812-1819"
+         "page":1812
       },
       {
          "title":"Bishop, William T.",
-         "pages":"1820-1828"
+         "page":1820
       },
       {
          "title":"Buchanan, James",
-         "pages":"1829-1830"
+         "page":1829
       },
       {
          "title":"Faulkner, J.",
-         "pages":"1831-1836"
+         "page":1831
       },
       {
          "title":"Hilliard, G.S.",
-         "pages":"1837-1839"
+         "page":1837
       },
       {
          "title":"Jernigan, L.",
-         "pages":"1840-1841"
+         "page":1840
       },
       {
          "title":"Kimball, J. P.",
-         "pages":"1842-1842"
+         "page":1842
       },
       {
          "title":"Schofield, Glennin W.",
-         "pages":"1843-1844"
+         "page":1843
       },
       {
          "title":"Barnum, Henry A., 1858, 1865-1886, undated",
-         "pages":"1845-1947"
+         "page":1845
       },
       {
          "title":"Killey, E. B.",
-         "pages":"1948-1949"
+         "page":1948
       },
       {
          "title":"Purser, George H.",
-         "pages":"1950-1968"
+         "page":1950
       },
       {
          "title":"Houghton, Vas",
-         "pages":"1969-1970"
+         "page":1969
       },
       {
          "title":"Jarvis, Thomas J.",
-         "pages":"1971-1972"
+         "page":1971
       },
       {
          "title":"Secor, Charles A.",
-         "pages":"1973-1999"
+         "page":1973
       },
       {
          "title":"London, Daniel  H.",
-         "pages":"2000-2000"
+         "page":2000
       },
       {
          "title":"Jones, E. F.",
-         "pages":"2001-2016"
+         "page":2001
       },
       {
          "title":"Field, Stephen",
-         "pages":"2017-2022"
+         "page":2017
       },
       {
          "title":"Hendricks, Thomas A.",
-         "pages":"2023-2034"
+         "page":2023
       },
       {
          "title":"Van Schaick, J.",
-         "pages":"2035-2038"
+         "page":2035
       },
       {
          "title":"Clymer, E. M.",
-         "pages":"2039-2055"
+         "page":2039
       },
       {
          "title":"Melville, Gansevoort",
-         "pages":"2056-2057"
+         "page":2056
       },
       {
          "title":"Edwards, Uriah",
-         "pages":"2058-2059"
+         "page":2058
       },
       {
          "title":"Unidentified, 1831-1888",
-         "pages":"2060-2227"
+         "page":2060
       },
       {
          "title":"Winfield, Charles H.",
-         "pages":"2228-2246"
+         "page":2228
       },
       {
          "title":"Lawrence, Joseph",
-         "pages":"2247-2247"
+         "page":2247
       },
       {
          "title":"Fish, Hamilton",
-         "pages":"2248-2265"
+         "page":2248
       },
       {
          "title":"Adams, Henry,  1883",
-         "pages":"2266-2275"
+         "page":2266
       },
       {
          "title":"Eaton, William W.",
-         "pages":"2276-2280"
+         "page":2276
       },
       {
          "title":"Agnew, John T., ca. 1939-1946",
-         "pages":"2281-2284"
+         "page":2281
       },
       {
          "title":"Fargo, William G.",
-         "pages":"2285-2286"
+         "page":2285
       },
       {
          "title":"King, J. Floyd",
-         "pages":"2287-2293"
+         "page":2287
       },
       {
          "title":"Lothrop, George V. N.",
-         "pages":"2294-2299"
+         "page":2294
       },
       {
          "title":"George, Henry",
-         "pages":"2300-2301"
+         "page":2300
       },
       {
          "title":"Zborowski, Marton",
-         "pages":"2302-2304"
+         "page":2302
       },
       {
          "title":"Gibbons, George W.",
-         "pages":"2305-2306"
+         "page":2305
       },
       {
          "title":"Hughes, F. W.",
-         "pages":"2307-2310"
+         "page":2307
       },
       {
          "title":"Cone, David Dennison",
-         "pages":"2311-2315"
+         "page":2311
       },
       {
          "title":"Parker, Courtlandt",
-         "pages":"2316-2321"
+         "page":2316
       },
       {
          "title":"Leslie, Frank",
-         "pages":"2322-2328"
+         "page":2322
       },
       {
          "title":"Bristol, Wheeler H.",
-         "pages":"2329-2336"
+         "page":2329
       },
       {
          "title":"Maclean, Charles H",
-         "pages":"2337-2340"
+         "page":2337
       },
       {
          "title":"Doolittle, E. A.",
-         "pages":"2341-2357"
+         "page":2341
       },
       {
          "title":"Foote, C. K.",
-         "pages":"2358-2360"
+         "page":2358
       },
       {
          "title":"Bruguiere Brothers",
-         "pages":"2361-2361"
+         "page":2361
       },
       {
          "title":"Knox, Henry E.",
-         "pages":"2362-2366"
+         "page":2362
       },
       {
          "title":"Sands, Julia M.",
-         "pages":"2367-2370"
+         "page":2367
       },
       {
          "title":"Burroughs (First name unknown)",
-         "pages":"2371-2372"
+         "page":2371
       },
       {
          "title":"Hart, William T.",
-         "pages":"2373-2374"
+         "page":2373
       },
       {
          "title":"Booth, William A.",
-         "pages":"2375-2378"
+         "page":2375
       },
       {
          "title":"Spriggs, J. Thomas",
-         "pages":"2379-2429"
+         "page":2379
       },
       {
          "title":"Ketchum, John W.",
-         "pages":"2430-2431"
+         "page":2430
       },
       {
          "title":"Greene, D. M.",
-         "pages":"2432-2445"
+         "page":2432
       },
       {
          "title":"Cameron, Simon",
-         "pages":"2446-2448"
+         "page":2446
       },
       {
          "title":"Van Hoesen, George M.",
-         "pages":"2449-2451"
+         "page":2449
       },
       {
          "title":"Hobart, L. Smith",
-         "pages":"2452-2453"
+         "page":2452
       },
       {
          "title":"Blyth, Francis J.",
-         "pages":"2454-2456"
+         "page":2454
       },
       {
          "title":"Allen, William F., 1849, 1864-1872",
-         "pages":"2457-2528"
+         "page":2457
       },
       {
          "title":"Gerry, Elbridge",
-         "pages":"2529-2536"
+         "page":2529
       },
       {
          "title":"Clendinen, George",
-         "pages":"2537-2540"
+         "page":2537
       },
       {
          "title":"Townsend, George Alfred",
-         "pages":"2541-2542"
+         "page":2541
       },
       {
          "title":"Cary, Samuel F.",
-         "pages":"2543-2547"
+         "page":2543
       },
       {
          "title":"Upson, William Henry.",
-         "pages":"2548-2548"
+         "page":2548
       },
       {
          "title":"MacIver, D. and C.",
-         "pages":"2549-2551"
+         "page":2549
       },
       {
          "title":"Sancton, Clark",
-         "pages":"2552-2553"
+         "page":2552
       },
       {
          "title":"Field, David Dudley",
-         "pages":"2554-2572"
+         "page":2554
       },
       {
          "title":"Lloyd, Henry D.",
-         "pages":"2573-2579"
+         "page":2573
       },
       {
          "title":"Carey, Charles",
-         "pages":"2580-2582"
+         "page":2580
       },
       {
          "title":"Laporte, John",
-         "pages":"2583-2586"
+         "page":2583
       },
       {
          "title":"Eddison, Charles",
-         "pages":"2587-2588"
+         "page":2587
       },
       {
          "title":"Hamilton, Alexander Jr.",
-         "pages":"2589-2589"
+         "page":2589
       },
       {
          "title":"Railey, Logan",
-         "pages":"2590-2591"
+         "page":2590
       },
       {
          "title":"Maynard, M. H.",
-         "pages":"2592-2598"
+         "page":2592
       },
       {
          "title":"Bradley, George B.",
-         "pages":"2599-2610"
+         "page":2599
       },
       {
          "title":"Buchanan, R. D.",
-         "pages":"2611-2613"
+         "page":2611
       },
       {
          "title":"Gibson, Randall L.",
-         "pages":"2614-2626"
+         "page":2614
       },
       {
          "title":"Morgan, R. J.",
-         "pages":"2627-2629"
+         "page":2627
       },
       {
          "title":"Wakeman, George",
-         "pages":"2630-2631"
+         "page":2630
       },
       {
          "title":"O'Sullivan, John L.",
-         "pages":"2632-2753"
+         "page":2632
       },
       {
          "title":"Mitchell, John W.",
-         "pages":"2754-2755"
+         "page":2754
       },
       {
          "title":"Titus, James H.",
-         "pages":"2756-2760"
+         "page":2756
       },
       {
          "title":"Warner, Andrew",
-         "pages":"2761-2762"
+         "page":2761
       },
       {
          "title":"Bragg, John",
-         "pages":"2763-2766"
+         "page":2763
       },
       {
          "title":"Barnes, William Henry Linow, 1861",
-         "pages":"2767-2768"
+         "page":2767
       },
       {
          "title":"Weed, Thurlow",
-         "pages":"2769-2770"
+         "page":2769
       },
       {
          "title":"Phelps, Royal",
-         "pages":"2771-2793"
+         "page":2771
       },
       {
          "title":"Ludington, Harrison",
-         "pages":"2794-2795"
+         "page":2794
       },
       {
          "title":"Sage, Russell",
-         "pages":"2796-2802"
+         "page":2796
       },
       {
          "title":"Stevenson, John W.",
-         "pages":"2803-2807"
+         "page":2803
       },
       {
          "title":"Campbell, Malcolm",
-         "pages":"2808-2815"
+         "page":2808
       },
       {
          "title":"Davis, George W.",
-         "pages":"2816-2817"
+         "page":2816
       },
       {
          "title":"Goodell, R. E.",
-         "pages":"2818-2820"
+         "page":2818
       },
       {
          "title":"Eames, F.",
-         "pages":"2821-2827"
+         "page":2821
       },
       {
          "title":"Thurber, Horace K.",
-         "pages":"2828-2829"
+         "page":2828
       },
       {
          "title":"Robbins, Eliza",
-         "pages":"2830-2839"
+         "page":2830
       },
       {
          "title":"Hurlburt, William H.",
-         "pages":"2840-2882"
+         "page":2840
       },
       {
          "title":"Steveson, J. D.",
-         "pages":"2883-2903"
+         "page":2883
       },
       {
          "title":"The Scottish American Investment Trust",
-         "pages":"2904-2905"
+         "page":2904
       },
       {
          "title":"Clinton, Henry L.",
-         "pages":"2906-2908"
+         "page":2906
       },
       {
          "title":"Potter, Thomas B.",
-         "pages":"2909-2910"
+         "page":2909
       },
       {
          "title":"Seguin, E. A.",
-         "pages":"2911-2912"
+         "page":2911
       },
       {
          "title":"Everett, Edward",
-         "pages":"2913-2915"
+         "page":2913
       },
       {
          "title":"Ives, M.",
-         "pages":"2916-2917"
+         "page":2916
       },
       {
          "title":"Shekell, Richard R.",
-         "pages":"2918-2919"
+         "page":2918
       },
       {
          "title":"Getty, Robert P.",
-         "pages":"2920-2922"
+         "page":2920
       },
       {
          "title":"McLean, Washington",
-         "pages":"2923-2929"
+         "page":2923
       },
       {
          "title":"Bass, George W., 1877",
-         "pages":"2930-2934"
+         "page":2930
       },
       {
          "title":"Hunter, John W.",
-         "pages":"2935-2965"
+         "page":2935
       },
       {
          "title":"Lewis, D. B.",
-         "pages":"2966-2967"
+         "page":2966
       },
       {
          "title":"Van Allen, John J.",
-         "pages":"2968-2976"
+         "page":2968
       },
       {
          "title":"Hunter, William Jr.",
-         "pages":"2977-2979"
+         "page":2977
       },
       {
          "title":"Wheaton, Charles",
-         "pages":"2980-2981"
+         "page":2980
       },
       {
          "title":"Irving, Richard",
-         "pages":"2982-2982"
+         "page":2982
       },
       {
          "title":"Iron City Tilden Club",
-         "pages":"2983-2985"
+         "page":2983
       },
       {
          "title":"Crapo, Samuel A.",
-         "pages":"2986-2986"
+         "page":2986
       },
       {
          "title":"Thompson, George S.",
-         "pages":"2987-2989"
+         "page":2987
       },
       {
          "title":"Herring, William",
-         "pages":"2990-2993"
+         "page":2990
       },
       {
          "title":"Green, Asabell",
-         "pages":"2994-3000"
+         "page":2994
       },
       {
          "title":"Trinity Church",
-         "pages":"3001-3006"
+         "page":3001
       },
       {
          "title":"Gardiner, O.C.",
-         "pages":"3007-3008"
+         "page":3007
       },
       {
          "title":"Train, George Francis",
-         "pages":"3009-3010"
+         "page":3009
       },
       {
          "title":"Morris, Robert H.",
-         "pages":"3011-3012"
+         "page":3011
       },
       {
          "title":"Hawley, Joseph R.",
-         "pages":"3013-3015"
+         "page":3013
       },
       {
          "title":"Stiles, J. W.",
-         "pages":"3016-3017"
+         "page":3016
       },
       {
          "title":"Trumbull, Lyman",
-         "pages":"3018-3020"
+         "page":3018
       },
       {
          "title":"Mackin, James",
-         "pages":"3021-3023"
+         "page":3021
       },
       {
          "title":"New York Pilots Association",
-         "pages":"3024-3025"
+         "page":3024
       },
       {
          "title":"Magone, Daniel Jr.",
-         "pages":"3026-3083"
+         "page":3026
       },
       {
          "title":"Walker, Mary Edwards",
-         "pages":"3084-3091"
+         "page":3084
       },
       {
          "title":"Andrus, J.D., 1861, 1876",
-         "pages":"3092-3105"
+         "page":3092
       },
       {
          "title":"Walker, Robert",
-         "pages":"3106-3112"
+         "page":3106
       },
       {
          "title":"Potter, Clarkson",
-         "pages":"3113-3139"
+         "page":3113
       },
       {
          "title":"Wilkinson, Alfred",
-         "pages":"3140-3147"
+         "page":3140
       },
       {
          "title":"Hoyt, L.",
-         "pages":"3148-3151"
+         "page":3148
       },
       {
          "title":"Dudley, J. G.",
-         "pages":"3152-3154"
+         "page":3152
       },
       {
          "title":"Potter, O. W.",
-         "pages":"3155-3160"
+         "page":3155
       },
       {
          "title":"Sands, Mahlon",
-         "pages":"3161-3168"
+         "page":3161
       },
       {
          "title":"Lockwood, Gersh",
-         "pages":"3169-3170"
+         "page":3169
       },
       {
          "title":"Shoenberger & Blair",
-         "pages":"3171-3172"
+         "page":3171
       },
       {
          "title":"Elliott, A. B.",
-         "pages":"3173-3177"
+         "page":3173
       },
       {
          "title":"Whitney, James S.",
-         "pages":"3178-3189"
+         "page":3178
       },
       {
          "title":"Bradbury, Elbridge",
-         "pages":"3190-3192"
+         "page":3190
       },
       {
          "title":"Nicholson, James B.",
-         "pages":"3193-3196"
+         "page":3193
       },
       {
          "title":"Davis, J.C. Bancroft",
-         "pages":"3197-3198"
+         "page":3197
       },
       {
          "title":"Gordon, William J.",
-         "pages":"3199-3202"
+         "page":3199
       },
       {
          "title":"McMurray, William",
-         "pages":"3203-3204"
+         "page":3203
       },
       {
          "title":"Wells, David A.",
-         "pages":"3205-3250"
+         "page":3205
       },
       {
          "title":"Holbrook, Edwin M.",
-         "pages":"3251-3252"
+         "page":3251
       },
       {
          "title":"Sibley, Hiram",
-         "pages":"3253-3255"
+         "page":3253
       },
       {
          "title":"Tracey, E.H.",
-         "pages":"3256-3257"
+         "page":3256
       },
       {
          "title":"Compton, R.J.",
-         "pages":"3258-3259"
+         "page":3258
       },
       {
          "title":"Pyne, Percy R.",
-         "pages":"3260-3262"
+         "page":3260
       },
       {
          "title":"Lester, C. Edwards",
-         "pages":"3263-3263"
+         "page":3263
       },
       {
          "title":"Homans, J. Smith",
-         "pages":"3264-3264"
+         "page":3264
       },
       {
          "title":"Conger, A.B.",
-         "pages":"3265-3282"
+         "page":3265
       },
       {
          "title":"Marshall, Stephen S.",
-         "pages":"3283-3284"
+         "page":3283
       },
       {
          "title":"Jenkins, J. M.",
-         "pages":"3285-3286"
+         "page":3285
       },
       {
          "title":"Independent Order of Oddfellows",
-         "pages":"3287-3287"
+         "page":3287
       },
       {
          "title":"Porter, John K.",
-         "pages":"3288-3316"
+         "page":3288
       },
       {
          "title":"The Academy of Music, 1879",
-         "pages":"3317-3317"
+         "page":3317
       },
       {
          "title":"Barney, Hiram, 1861",
-         "pages":"3318-3325"
+         "page":3318
       },
       {
          "title":"McMahon, J.A.",
-         "pages":"3326-3327"
+         "page":3326
       },
       {
          "title":"Wendell, C.",
-         "pages":"3328-3328"
+         "page":3328
       },
       {
          "title":"Field, Cyrus W.",
-         "pages":"3329-3364"
+         "page":3329
       },
       {
          "title":"Hilliard, O.G.",
-         "pages":"3365-3366"
+         "page":3365
       },
       {
          "title":"Uhl, Hermann",
-         "pages":"3367-3370"
+         "page":3367
       },
       {
          "title":"Workingmen's Democratic Republican Association",
-         "pages":"3371-3372"
+         "page":3371
       },
       {
          "title":"Palmer, F. A.",
-         "pages":"3373-3373"
+         "page":3373
       },
       {
          "title":"Timby, Theodore, Ruggles",
-         "pages":"3374-3375"
+         "page":3374
       },
       {
          "title":"Sherman, John",
-         "pages":"3376-3398"
+         "page":3376
       },
       {
          "title":"Reid, Whitelaw",
-         "pages":"3399-3465"
+         "page":3399
       },
       {
          "title":"Nelson, Samuel",
-         "pages":"3466-3467"
+         "page":3466
       },
       {
          "title":"Drummond, Thomas",
-         "pages":"3468-3469"
+         "page":3468
       },
       {
          "title":"Dawson, Henry B.",
-         "pages":"3470-3482"
+         "page":3470
       },
       {
          "title":"Dana, Charles A.",
-         "pages":"3483-3638"
+         "page":3483
       },
       {
          "title":"Russell, W. F.",
-         "pages":"3639-3640"
+         "page":3639
       },
       {
          "title":"Carnegie, Andrew",
-         "pages":"3641-3645"
+         "page":3641
       },
       {
          "title":"Crosby, John P.",
-         "pages":"3646-3647"
+         "page":3646
       },
       {
          "title":"Martin, W. R.",
-         "pages":"3648-3650"
+         "page":3648
       },
       {
          "title":"Abbott, Frank, 1874",
-         "pages":"3651-3653"
+         "page":3651
       },
       {
          "title":"Dows, David",
-         "pages":"3654-3686"
+         "page":3654
       },
       {
          "title":"Levy, Jefferson M.",
-         "pages":"3687-3690"
+         "page":3687
       },
       {
          "title":"Wheeler, D.E.",
-         "pages":"3691-3694"
+         "page":3691
       },
       {
          "title":"Jacques, William Henry",
-         "pages":"3695-3708"
+         "page":3695
       },
       {
          "title":"Ellis, Matthew H.",
-         "pages":"3709-3712"
+         "page":3709
       },
       {
          "title":"Davis, Ira B.",
-         "pages":"3713-3718"
+         "page":3713
       },
       {
          "title":"Taylor, John",
-         "pages":"3719-3728"
+         "page":3719
       },
       {
          "title":"Gilmore, Quincey Adams",
-         "pages":"3729-3745"
+         "page":3729
       },
       {
          "title":"Delta County, Michigan",
-         "pages":"3746-3747"
+         "page":3746
       },
       {
          "title":"Redfield, D. W.",
-         "pages":"3748-3749"
+         "page":3748
       },
       {
          "title":"Smith, Ballard",
-         "pages":"3750-3752"
+         "page":3750
       },
       {
          "title":"Haines, John H.",
-         "pages":"3753-3754"
+         "page":3753
       },
       {
          "title":"Hatton, O. C.",
-         "pages":"3755-3755"
+         "page":3755
       },
       {
          "title":"Starbuck, James F.",
-         "pages":"3756-3757"
+         "page":3756
       },
       {
          "title":"Van Cott, Joshua M.",
-         "pages":"3758-3767"
+         "page":3758
       },
       {
          "title":"Reeves, Henry A.",
-         "pages":"3768-3769"
+         "page":3768
       },
       {
          "title":"Winslow, R.",
-         "pages":"3770-3770"
+         "page":3770
       },
       {
          "title":"Sigourney, John M.",
-         "pages":"3771-3774"
+         "page":3771
       },
       {
          "title":"Davezac, Auguste",
-         "pages":"3775-3776"
+         "page":3775
       },
       {
          "title":"Stebbins, Henry G.",
-         "pages":"3777-3796"
+         "page":3777
       },
       {
          "title":"Marbury, F. F.",
-         "pages":"3797-3808"
+         "page":3797
       },
       {
          "title":"Bergen, A. J.",
-         "pages":"3809-3810"
+         "page":3809
       },
       {
          "title":"Robertson, Wyndham",
-         "pages":"3811-3819"
+         "page":3811
       },
       {
          "title":"Doane, William Crosswell",
-         "pages":"3820-3823"
+         "page":3820
       },
       {
          "title":"Hammers, S. S. W.",
-         "pages":"3824-3831"
+         "page":3824
       },
       {
          "title":"Otis, Eliza Proctor",
-         "pages":"3832-3833"
+         "page":3832
       },
       {
          "title":"Wright, Silas",
-         "pages":"3834-3885"
+         "page":3834
       },
       {
          "title":"Wickham, William H., 1875 Mar - Dec",
-         "pages":"3886-3962"
+         "page":3886
       },
       {
          "title":"Semple, Henry C.",
-         "pages":"3963-3973"
+         "page":3963
       },
       {
          "title":"Eaton, Dorman B.",
-         "pages":"3974-3990"
+         "page":3974
       },
       {
          "title":"Maurice, James",
-         "pages":"3991-3992"
+         "page":3991
       },
       {
          "title":"Gray, Neil",
-         "pages":"3993-3999"
+         "page":3993
       },
       {
          "title":"Aleshire, Charles C., 1877",
-         "pages":"4000-4005"
+         "page":4000
       },
       {
          "title":"Bryant, Andrew Jackson",
-         "pages":"4006-4011"
+         "page":4006
       },
       {
          "title":"Sayre, (First name unknown)",
-         "pages":"4012-4012"
+         "page":4012
       },
       {
          "title":"Wheaton, Horace",
-         "pages":"4013-4015"
+         "page":4013
       },
       {
          "title":"Peckham, Rufus W. Jr.",
-         "pages":"4016-4021"
+         "page":4016
       },
       {
          "title":"Meade, Edwin R.",
-         "pages":"4022-4030"
+         "page":4022
       },
       {
          "title":"Yard, W. Sterling",
-         "pages":"4031-4032"
+         "page":4031
       },
       {
          "title":"White, Horace",
-         "pages":"4033-4040"
+         "page":4033
       },
       {
          "title":"Hewitt, Abram S.",
-         "pages":"4041-4242"
+         "page":4041
       },
       {
          "title":"Johnson, William",
-         "pages":"4243-4244"
+         "page":4243
       },
       {
          "title":"Rose, Joseph",
-         "pages":"4245-4246"
+         "page":4245
       },
       {
          "title":"Cleveland, Grover",
-         "pages":"4247-4273"
+         "page":4247
       },
       {
          "title":"Bieber, Walt",
-         "pages":"4274-4275"
+         "page":4274
       },
       {
          "title":"Marshall, D.D.T.",
-         "pages":"4276-4281"
+         "page":4276
       },
       {
          "title":"Weir, George",
-         "pages":"4282-4284"
+         "page":4282
       },
       {
          "title":"Cambreling, Stephen",
-         "pages":"4285-4287"
+         "page":4285
       },
       {
          "title":"Knapp, J. G.",
-         "pages":"4288-4298"
+         "page":4288
       },
       {
          "title":"Throop, Montgomery H.",
-         "pages":"4299-4307"
+         "page":4299
       },
       {
          "title":"Jones, J. D.",
-         "pages":"4308-4308"
+         "page":4308
       },
       {
          "title":"Olcott, Thomas W.",
-         "pages":"4309-4312"
+         "page":4309
       },
       {
          "title":"Vail, M. Bedell {1886}0.",
-         "pages":"4313-4317"
+         "page":4313
       },
       {
          "title":"Van Dyke, James C.",
-         "pages":"4318-4321"
+         "page":4318
       },
       {
          "title":"Airlie (first name unknown), 1864 and 1868",
-         "pages":"4322-4326"
+         "page":4322
       },
       {
          "title":"Guthrie, James",
-         "pages":"4327-4336"
+         "page":4327
       },
       {
          "title":"Stryker, Francis B.",
-         "pages":"4337-4338"
+         "page":4337
       },
       {
          "title":"Litchfield, Edwin C.",
-         "pages":"4339-4348"
+         "page":4339
       },
       {
          "title":"Haswell, Charles H. ",
-         "pages":"4349-4349"
+         "page":4349
       },
       {
          "title":"Lombard, Katrina",
-         "pages":"4350-4352"
+         "page":4350
       },
       {
          "title":"Van Buren, Myndert",
-         "pages":"4353-4353"
+         "page":4353
       },
       {
          "title":"Cole, William",
-         "pages":"4354-4358"
+         "page":4354
       },
       {
          "title":"Jervis, John B.",
-         "pages":"4359-4361"
+         "page":4359
       },
       {
          "title":"Smith, A. J.",
-         "pages":"4362-4369"
+         "page":4362
       },
       {
          "title":"Swan, Henrietta J.",
-         "pages":"4370-4372"
+         "page":4370
       },
       {
          "title":"Stockton, John P.",
-         "pages":"4373-4377"
+         "page":4373
       },
       {
          "title":"Latham, R. W.",
-         "pages":"4378-4381"
+         "page":4378
       },
       {
          "title":"Cocke, William Archer",
-         "pages":"4382-4386"
+         "page":4382
       },
       {
          "title":"Hall, L. W.",
-         "pages":"4387-4387"
+         "page":4387
       },
       {
          "title":"Wilkinson, John",
-         "pages":"4388-4393"
+         "page":4388
       },
       {
          "title":"Brown, W. L.",
-         "pages":"4394-4395"
+         "page":4394
       },
       {
          "title":"Cowen, Patrick Henry",
-         "pages":"4396-4399"
+         "page":4396
       },
       {
          "title":"Davis, R. D.",
-         "pages":"4400-4402"
+         "page":4400
       },
       {
          "title":"Davis, S. N.",
-         "pages":"4403-4409"
+         "page":4403
       },
       {
          "title":"Stone, R. G.",
-         "pages":"4410-4412"
+         "page":4410
       },
       {
          "title":"Mason, Charles",
-         "pages":"4413-4414"
+         "page":4413
       },
       {
          "title":"Bryant, William Cullen",
-         "pages":"4415-4451"
+         "page":4415
       },
       {
          "title":"McKee, David R.",
-         "pages":"4452-4452"
+         "page":4452
       },
       {
          "title":"Kingsley, William C.",
-         "pages":"4453-4458"
+         "page":4453
       },
       {
          "title":"Mace, J. Ellis Jr.",
-         "pages":"4459-4466"
+         "page":4459
       },
       {
          "title":"Kelsey, Henry C. ",
-         "pages":"4467-4469"
+         "page":4467
       },
       {
          "title":"Rosecrans, William S.",
-         "pages":"4470-4475"
+         "page":4470
       },
       {
          "title":"New York Law Institute",
-         "pages":"4476-4477"
+         "page":4476
       },
       {
          "title":"McVickar, W.H.",
-         "pages":"4478-4481"
+         "page":4478
       },
       {
          "title":"Smith, Alfred",
-         "pages":"4482-4493"
+         "page":4482
       },
       {
          "title":"Fairchild, Charles",
-         "pages":"4494-4515"
+         "page":4494
       },
       {
          "title":"Campbell, George",
-         "pages":"4516-4519"
+         "page":4516
       },
       {
          "title":"Perkins, Eli",
-         "pages":"4520-4521"
+         "page":4520
       },
       {
          "title":"Canda, Charles J.",
-         "pages":"4522-4544"
+         "page":4522
       },
       {
          "title":"Goodell, J. G.",
-         "pages":"4545-4547"
+         "page":4545
       },
       {
          "title":"Exchange Hotel ",
-         "pages":"4548-4549"
+         "page":4548
       },
       {
          "title":"Smith, Nicholas",
-         "pages":"4550-4554"
+         "page":4550
       },
       {
          "title":"Coe, N.",
-         "pages":"4555-4555"
+         "page":4555
       },
       {
          "title":"Gill, John",
-         "pages":"4556-4558"
+         "page":4556
       },
       {
          "title":"Greatorex, Eliza",
-         "pages":"4559-4561"
+         "page":4559
       },
       {
          "title":"Bates, B., 1846",
-         "pages":"4562-4563"
+         "page":4562
       },
       {
          "title":"Worcester, E.D.",
-         "pages":"4564-4565"
+         "page":4564
       },
       {
          "title":"Phillips, Wendell",
-         "pages":"4566-4567"
+         "page":4566
       },
       {
          "title":"Blood, Isaiah",
-         "pages":"4568-4573"
+         "page":4568
       },
       {
          "title":"Ward, C. L.",
-         "pages":"4574-4575"
+         "page":4574
       },
       {
          "title":"Hutchinson, Charles W.",
-         "pages":"4576-4577"
+         "page":4576
       },
       {
          "title":"Chittenden, S. E.",
-         "pages":"4578-4583"
+         "page":4578
       },
       {
          "title":"Louisville Cultural Exposition",
-         "pages":"4584-4591"
+         "page":4584
       },
       {
          "title":"Sanders, Dallas",
-         "pages":"4592-4593"
+         "page":4592
       },
       {
          "title":"Hunton, Eppa",
-         "pages":"4594-4598"
+         "page":4594
       },
       {
          "title":"Scranstone, Hiram",
-         "pages":"4599-4599"
+         "page":4599
       },
       {
          "title":"Calhoun, John C.",
-         "pages":"4600-4602"
+         "page":4600
       },
       {
          "title":"Hunt, Louise Livingston",
-         "pages":"4603-4634"
+         "page":4603
       },
       {
          "title":"Weed, Smith M., undated",
-         "pages":"4635-4700"
+         "page":4635
       },
       {
          "title":"Rice, R. D.",
-         "pages":"4701-4703"
+         "page":4701
       },
       {
          "title":"Coe, George S.",
-         "pages":"4704-4706"
+         "page":4704
       },
       {
          "title":"Van Buren, Abraham",
-         "pages":"4707-4713"
+         "page":4707
       },
       {
          "title":"Lanphier, Charles H.",
-         "pages":"4714-4730"
+         "page":4714
       },
       {
          "title":"Chamberlin, William",
-         "pages":"4731-4737"
+         "page":4731
       },
       {
          "title":"McDonald, J. E.",
-         "pages":"4738-4743"
+         "page":4738
       },
       {
          "title":"Fields, Thomas C.",
-         "pages":"4744-4747"
+         "page":4744
       },
       {
          "title":"Bacon, Daniel P., 1830, 1832",
-         "pages":"4748-4752"
+         "page":4748
       },
       {
          "title":"Reemelin, Charles",
-         "pages":"4753-4758"
+         "page":4753
       },
       {
          "title":"Jones, Aquilla",
-         "pages":"4759-4760"
+         "page":4759
       },
       {
          "title":"Weston, Edward Payson",
-         "pages":"4761-4763"
+         "page":4761
       },
       {
          "title":"Gaylor, R.",
-         "pages":"4764-4766"
+         "page":4764
       },
       {
          "title":"Agan, A. H., 1855, 1875",
-         "pages":"4767-4774"
+         "page":4767
       },
       {
          "title":"Carlisle, John G.",
-         "pages":"4775-4888"
+         "page":4775
       },
       {
          "title":"Gower, Franklin B.",
-         "pages":"4889-4894"
+         "page":4889
       },
       {
          "title":"Trevor, John Bond",
-         "pages":"4895-4907"
+         "page":4895
       },
       {
          "title":"Norris, Thomas",
-         "pages":"4908-4908"
+         "page":4908
       },
       {
          "title":"Kernan, Francis",
-         "pages":"4909-5202"
+         "page":4909
       },
       {
          "title":"Union League Club",
-         "pages":"5203-5205"
+         "page":5203
       },
       {
          "title":"Hitchcock, Phineas W.",
-         "pages":"5206-5228"
+         "page":5206
       },
       {
          "title":"Ward, Samuel Cutler",
-         "pages":"5229-5249"
+         "page":5229
       },
       {
          "title":"Bromley, B.O.",
-         "pages":"5250-5250"
+         "page":5250
       },
       {
          "title":"Newell, George W.",
-         "pages":"5251-5298"
+         "page":5251
       },
       {
          "title":"Cooke (first name unknown)",
-         "pages":"5299-5301"
+         "page":5299
       },
       {
          "title":"Kemble, William",
-         "pages":"5302-5304"
+         "page":5302
       },
       {
          "title":"Van Buren, John",
-         "pages":"5305-5433"
+         "page":5305
       },
       {
          "title":"Robinson, Edward Randolph",
-         "pages":"5434-5440"
+         "page":5434
       },
       {
          "title":"Bradley, Alvin C.",
-         "pages":"5441-5442"
+         "page":5441
       },
       {
          "title":"Culver, D.E.",
-         "pages":"5443-5445"
+         "page":5443
       },
       {
          "title":"Lafitte, John B.",
-         "pages":"5446-5451"
+         "page":5446
       },
       {
          "title":"Bigelow, John",
-         "pages":"5452-5668"
+         "page":5452
       },
       {
          "title":"Irwin, William",
-         "pages":"5669-5670"
+         "page":5669
       },
       {
          "title":"Pillow, Gideon",
-         "pages":"5671-5678"
+         "page":5671
       },
       {
          "title":"Brooks, Erastus",
-         "pages":"5679-5685"
+         "page":5679
       },
       {
          "title":"Cooper, Peter",
-         "pages":"5686-5700"
+         "page":5686
       },
       {
          "title":"Grant, S. Hastings",
-         "pages":"5701-5701"
+         "page":5701
       },
       {
          "title":"Hobart, Garret H.",
-         "pages":"5702-5705"
+         "page":5702
       },
       {
          "title":"Cochrane, John",
-         "pages":"5706-5708"
+         "page":5706
       },
       {
          "title":"Dean, G.",
-         "pages":"5709-5710"
+         "page":5709
       },
       {
          "title":"Hill, Nicholas",
-         "pages":"5711-5713"
+         "page":5711
       },
       {
          "title":"Cahill, John",
-         "pages":"5714-5720"
+         "page":5714
       },
       {
          "title":"Stevens, Isaac Ingalls",
-         "pages":"5721-5722"
+         "page":5721
       },
       {
          "title":"Bennett, J. G.",
-         "pages":"5723-5727"
+         "page":5723
       },
       {
          "title":"Fowler, William W.",
-         "pages":"5728-5731"
+         "page":5728
       },
       {
          "title":"Eastman, Harvey G.",
-         "pages":"5732-5735"
+         "page":5732
       },
       {
          "title":"Enos, Pascal P.",
-         "pages":"5736-5737"
+         "page":5736
       },
       {
          "title":"Bailey, E. Prentiss, 1874",
-         "pages":"5738-5741"
+         "page":5738
       },
       {
          "title":"McCurdy, R. H.",
-         "pages":"5742-5747"
+         "page":5742
       },
       {
          "title":"Colby, Charles L.",
-         "pages":"5748-5749"
+         "page":5748
       },
       {
          "title":"Campbell, John L.",
-         "pages":"5750-5751"
+         "page":5750
       },
       {
          "title":"Grover, Lafayette",
-         "pages":"5752-5753"
+         "page":5752
       },
       {
          "title":"Smith, C. P.",
-         "pages":"5754-5755"
+         "page":5754
       },
       {
          "title":"Osborn, William H.",
-         "pages":"5756-5756"
+         "page":5756
       },
       {
          "title":"Boyle, Edward R.",
-         "pages":"5757-5758"
+         "page":5757
       },
       {
          "title":"Bossford, William",
-         "pages":"5759-5759"
+         "page":5759
       },
       {
          "title":"Boutwell, George S.",
-         "pages":"5760-5762"
+         "page":5760
       },
       {
          "title":"McCunn, John H.",
-         "pages":"5763-5763"
+         "page":5763
       },
       {
          "title":"Cagger, Peter",
-         "pages":"5764-5829"
+         "page":5764
       },
       {
          "title":"Low, Henry R.",
-         "pages":"5830-5832"
+         "page":5830
       },
       {
          "title":"Welles, Gideon",
-         "pages":"5833-5847"
+         "page":5833
       },
       {
          "title":"Nordhoff, Charles",
-         "pages":"5848-5853"
+         "page":5848
       },
       {
          "title":"Schultz, Jackson S.",
-         "pages":"5854-5882"
+         "page":5854
       },
       {
          "title":"Casserley, Eugene",
-         "pages":"5883-5991"
+         "page":5883
       },
       {
          "title":"Turrill, G.",
-         "pages":"5992-5992"
+         "page":5992
       },
       {
          "title":"Robb, James",
-         "pages":"5993-5998"
+         "page":5993
       },
       {
          "title":"Ayer, Harriet Hubbard, 1883",
-         "pages":"5999-5999"
+         "page":5999
       },
       {
          "title":"Hatch, Israel Thompson",
-         "pages":"6000-6000"
+         "page":6000
       },
       {
          "title":"McCullough, Hugh",
-         "pages":"6001-6080"
+         "page":6001
       },
       {
          "title":"Hitchcock, Thomas",
-         "pages":"6081-6083"
+         "page":6081
       },
       {
          "title":"Newton, John",
-         "pages":"6084-6097"
+         "page":6084
       },
       {
          "title":"Fox, John",
-         "pages":"6098-6107"
+         "page":6098
       },
       {
          "title":"Unidentified, undated",
-         "pages":"6108-6143"
+         "page":6108
       },
       {
          "title":"Oakley, Thomas J.",
-         "pages":"6144-6149"
+         "page":6144
       },
       {
          "title":"Schoolcraft, Henry Rowe",
-         "pages":"6150-6153"
+         "page":6150
       },
       {
          "title":"Frost, Calvin",
-         "pages":"6154-6155"
+         "page":6154
       },
       {
          "title":"Parmenter, R. A.",
-         "pages":"6156-6160"
+         "page":6156
       },
       {
          "title":"Godwin, Amil B.",
-         "pages":"6161-6162"
+         "page":6161
       },
       {
          "title":"Cowing, J.A.",
-         "pages":"6163-6164"
+         "page":6163
       },
       {
          "title":"Bowen, Adna",
-         "pages":"6165-6166"
+         "page":6165
       },
       {
          "title":"Green, Norvin",
-         "pages":"6167-6175"
+         "page":6167
       },
       {
          "title":"Roberts, G. B.",
-         "pages":"6176-6180"
+         "page":6176
       },
       {
          "title":"Manhattan Club",
-         "pages":"6181-6183"
+         "page":6181
       },
       {
          "title":"Hunt, Ward",
-         "pages":"6184-6188"
+         "page":6184
       },
       {
          "title":"Nicoll, Henry",
-         "pages":"6189-6193"
+         "page":6189
       },
       {
          "title":"Moses, Frederick",
-         "pages":"6194-6202"
+         "page":6194
       },
       {
          "title":"Payne, Eloise",
-         "pages":"6203-6220"
+         "page":6203
       },
       {
          "title":"Bauer, Charles Henry, 1876",
-         "pages":"6221-6222"
+         "page":6221
       },
       {
          "title":"Douglas, John W.",
-         "pages":"6223-6225"
+         "page":6223
       },
       {
          "title":"Dean, William",
-         "pages":"6226-6227"
+         "page":6226
       },
       {
          "title":"Hall & Buell",
-         "pages":"6228-6228"
+         "page":6228
       },
       {
          "title":"Phelps, Charles",
-         "pages":"6229-6231"
+         "page":6229
       },
       {
          "title":"Wachner, L.C.",
-         "pages":"6232-6235"
+         "page":6232
       },
       {
          "title":"Underhill, E. F.",
-         "pages":"6236-6237"
+         "page":6236
       },
       {
          "title":"Lee, Mrs. Fitzhugh",
-         "pages":"6238-6240"
+         "page":6238
       },
       {
          "title":"Campbell, D. Forbes",
-         "pages":"6241-6246"
+         "page":6241
       },
       {
          "title":"Tuttle, George F.",
-         "pages":"6247-6248"
+         "page":6247
       },
       {
          "title":"Hand, Samuel",
-         "pages":"6249-6263"
+         "page":6249
       },
       {
          "title":"Young Men's Democratic Union Club",
-         "pages":"6264-6276"
+         "page":6264
       },
       {
          "title":"Townsend, Dwight",
-         "pages":"6277-6292"
+         "page":6277
       },
       {
          "title":"Phillips, D. L.",
-         "pages":"6293-6296"
+         "page":6293
       },
       {
          "title":"Field, Kate",
-         "pages":"6297-6302"
+         "page":6297
       },
       {
          "title":"Paige, David R.",
-         "pages":"6303-6309"
+         "page":6303
       },
       {
          "title":"Skimmer, Mark",
-         "pages":"6310-6310"
+         "page":6310
       },
       {
          "title":"Hutchings, Marie I.",
-         "pages":"6311-6313"
+         "page":6311
       },
       {
          "title":"Harrison, Burton",
-         "pages":"6314-6329"
+         "page":6314
       },
       {
          "title":"Crittenden, Alonzo",
-         "pages":"6330-6338"
+         "page":6330
       },
       {
          "title":"Hoyt, John W.",
-         "pages":"6339-6341"
+         "page":6339
       },
       {
          "title":"Lawrence, William Beach",
-         "pages":"6342-6368"
+         "page":6342
       },
       {
          "title":"Roosevelt, Robert B.",
-         "pages":"6369-6386"
+         "page":6369
       },
       {
          "title":"Howe, Samuel O.",
-         "pages":"6387-6408"
+         "page":6387
       },
       {
          "title":"Cooley, James Ewing",
-         "pages":"6409-6414"
+         "page":6409
       },
       {
          "title":"Rowley, W. C.",
-         "pages":"6415-6424"
+         "page":6415
       },
       {
          "title":"Hoyt, Colgate",
-         "pages":"6425-6426"
+         "page":6425
       },
       {
          "title":"Smith, Cora E.",
-         "pages":"6427-6440"
+         "page":6427
       },
       {
          "title":"Alwood, Thomas G., 1855, 1875",
-         "pages":"6441-6445"
+         "page":6441
       },
       {
          "title":"Cullen, Edgar M.",
-         "pages":"6446-6449"
+         "page":6446
       },
       {
          "title":"Croker, Richard",
-         "pages":"6450-6450"
+         "page":6450
       },
       {
          "title":"Bayard, Thomas F., 1871, 1876",
-         "pages":"6451-6455"
+         "page":6451
       },
       {
          "title":"Campbell, Colin E.",
-         "pages":"6456-6459"
+         "page":6456
       },
       {
          "title":"Graham, D. Jr.",
-         "pages":"6460-6461"
+         "page":6460
       },
       {
          "title":"Hunt, Wilson G.",
-         "pages":"6462-6466"
+         "page":6462
       },
       {
          "title":"Ward, Townsend",
-         "pages":"6467-6469"
+         "page":6467
       },
       {
          "title":"Boardman, Andrew",
-         "pages":"6470-6478"
+         "page":6470
       },
       {
          "title":"Adams, John Quincy, 1868, 1877",
-         "pages":"6479-6492"
+         "page":6479
       },
       {
          "title":"Boorman, J.",
-         "pages":"6493-6495"
+         "page":6493
       },
       {
          "title":"Laflin, A. H.",
-         "pages":"6496-6498"
+         "page":6496
       },
       {
          "title":"Fowler, William A.",
-         "pages":"6499-6502"
+         "page":6499
       },
       {
          "title":"Brawley, William H.",
-         "pages":"6503-6504"
+         "page":6503
       },
       {
          "title":"Maynard, A. B.",
-         "pages":"6505-6510"
+         "page":6505
       },
       {
          "title":"Scheer, Solomon",
-         "pages":"6511-6512"
+         "page":6511
       },
       {
          "title":"Greeley, Horace",
-         "pages":"6513-6518"
+         "page":6513
       },
       {
          "title":"Bourne, Theodore",
-         "pages":"6519-6523"
+         "page":6519
       },
       {
          "title":"Conkling, F.A.",
-         "pages":"6524-6536"
+         "page":6524
       },
       {
          "title":"Gouge, William M.",
-         "pages":"6537-6550"
+         "page":6537
       },
       {
          "title":"Bar Association of Albany, 1868",
-         "pages":"6551-6554"
+         "page":6551
       },
       {
          "title":"Gale, H.D.",
-         "pages":"6555-6555"
+         "page":6555
       },
       {
          "title":"Willson, H.P.",
-         "pages":"6556-6559"
+         "page":6556
       },
       {
          "title":"Stickney, Albert",
-         "pages":"6560-6563"
+         "page":6560
       },
       {
          "title":"Closkey, L. W.",
-         "pages":"6564-6566"
+         "page":6564
       },
       {
          "title":"Hoyt, M.",
-         "pages":"6567-6567"
+         "page":6567
       },
       {
          "title":"Driggs, Edmund",
-         "pages":"6568-6571"
+         "page":6568
       },
       {
          "title":"Flint, Austin Jr.",
-         "pages":"6572-6581"
+         "page":6572
       },
       {
          "title":"Ledyard, John",
-         "pages":"6582-6585"
+         "page":6582
       },
       {
          "title":"Leverett, Josiah S.",
-         "pages":"6586-6589"
+         "page":6586
       },
       {
          "title":"Dwight, J. W.",
-         "pages":"6590-6590"
+         "page":6590
       },
       {
          "title":"Dodge, William Earle",
-         "pages":"6591-6607"
+         "page":6591
       },
       {
          "title":"Richmond, Dean",
-         "pages":"6608-6699"
+         "page":6608
       },
       {
          "title":"Brady, John R.",
-         "pages":"6700-6706"
+         "page":6700
       },
       {
          "title":"Jewett, Sarah B.",
-         "pages":"6707-6741"
+         "page":6707
       },
       {
          "title":"Cooper, Edward",
-         "pages":"6742-6767"
+         "page":6742
       },
       {
          "title":"Bagley, John J., 1875",
-         "pages":"6768-6769"
+         "page":6768
       },
       {
          "title":"Seymour, Horatio",
-         "pages":"6770-7195"
+         "page":6770
       },
       {
          "title":"McLane, Allan",
-         "pages":"7196-7198"
+         "page":7196
       },
       {
          "title":"Shepherd, Elliott F.",
-         "pages":"7199-7203"
+         "page":7199
       },
       {
          "title":"Parker, N. W.",
-         "pages":"7204-7205"
+         "page":7204
       },
       {
          "title":"Stokes, James",
-         "pages":"7206-7207"
+         "page":7206
       },
       {
          "title":"Howell, Evan P.",
-         "pages":"7208-7209"
+         "page":7208
       },
       {
          "title":"Gibson, A.M.",
-         "pages":"7210-7334"
+         "page":7210
       },
       {
          "title":"Lincoln, Abraham",
-         "pages":"7335-7336"
+         "page":7335
       },
       {
          "title":"Vest, George G.",
-         "pages":"7337-7340"
+         "page":7337
       },
       {
          "title":"Birdsall, Ausburn",
-         "pages":"7341-7390"
+         "page":7341
       },
       {
          "title":"Devlin, John E.",
-         "pages":"7391-7428"
+         "page":7391
       },
       {
          "title":"Hoes, John Van Allen",
-         "pages":"7429-7430"
+         "page":7429
       },
       {
          "title":"St. John, Daniel Bennett",
-         "pages":"7431-7434"
+         "page":7431
       },
       {
          "title":"Pierrepont, Edwards",
-         "pages":"7435-7451"
+         "page":7435
       },
       {
          "title":"O'Leary, T.",
-         "pages":"7452-7454"
+         "page":7452
       },
       {
          "title":"O'Meara, James",
-         "pages":"7455-7460"
+         "page":7455
       },
       {
          "title":"Webb, William H.",
-         "pages":"7461-7468"
+         "page":7461
       },
       {
          "title":"Wallace, Robert",
-         "pages":"7469-7469"
+         "page":7469
       },
       {
          "title":"Raymond, C. B.",
-         "pages":"7470-7472"
+         "page":7470
       },
       {
          "title":"Fowle, William B.",
-         "pages":"7473-7473"
+         "page":7473
       },
       {
          "title":"Allen, Horatio, 1849",
-         "pages":"7474-7475"
+         "page":7474
       },
       {
          "title":"Carroll, John Lee",
-         "pages":"7476-7481"
+         "page":7476
       },
       {
          "title":"Norton, Charles B.",
-         "pages":"7482-7484"
+         "page":7482
       },
       {
          "title":"Mangin, John",
-         "pages":"7485-7489"
+         "page":7485
       },
       {
          "title":"Prince, Frederick",
-         "pages":"7490-7501"
+         "page":7490
       },
       {
          "title":"Fowler, William J.",
-         "pages":"7502-7503"
+         "page":7502
       },
       {
          "title":"Waite, M. R.",
-         "pages":"7504-7513"
+         "page":7504
       },
       {
          "title":"Kemble, G.",
-         "pages":"7514-7514"
+         "page":7514
       },
       {
          "title":"Sullivan, Algernon S.",
-         "pages":"7515-7521"
+         "page":7515
       },
       {
          "title":"Beebe, G. M.",
-         "pages":"7522-7539"
+         "page":7522
       },
       {
          "title":"Kellog, Charles D.",
-         "pages":"7540-7541"
+         "page":7540
       },
       {
          "title":"Messler, Thomas D.",
-         "pages":"7542-7545"
+         "page":7542
       },
       {
          "title":"Bright, R. J.",
-         "pages":"7546-7548"
+         "page":7546
       },
       {
          "title":"Duck, Martin",
-         "pages":"7549-7550"
+         "page":7549
       },
       {
          "title":"Fassett, Mrs. C. Adile",
-         "pages":"7551-7553"
+         "page":7551
       },
       {
          "title":"O'Brien, James",
-         "pages":"7554-7560"
+         "page":7554
       },
       {
          "title":"Weaver, E. M.",
-         "pages":"7561-7562"
+         "page":7561
       },
       {
          "title":"Hudson, Charles",
-         "pages":"7563-7565"
+         "page":7563
       },
       {
          "title":"Thurman, Allen G.",
-         "pages":"7566-7578"
+         "page":7566
       },
       {
          "title":"Vallandingham, Clement Laird",
-         "pages":"7579-7583"
+         "page":7579
       },
       {
          "title":"Francois, Alexander",
-         "pages":"7584-7586"
+         "page":7584
       },
       {
          "title":"Garland, Augustus Hill",
-         "pages":"7587-7596"
+         "page":7587
       },
       {
          "title":"Griswold, John A.",
-         "pages":"7597-7600"
+         "page":7597
       },
       {
          "title":"New York Produce Exchange",
-         "pages":"7601-7602"
+         "page":7601
       },
       {
          "title":"Haines, John P.",
-         "pages":"7603-7603"
+         "page":7603
       },
       {
          "title":"Mann, A. Jr.",
-         "pages":"7604-7608"
+         "page":7604
       },
       {
          "title":"Putnam, L. H.",
-         "pages":"7609-7618"
+         "page":7609
       },
       {
          "title":"Friend, Joseph D.",
-         "pages":"7619-7624"
+         "page":7619
       },
       {
          "title":"Boggs, William G.",
-         "pages":"7625-7628"
+         "page":7625
       },
       {
          "title":"Fairchild, S.T.",
-         "pages":"7629-7632"
+         "page":7629
       },
       {
          "title":"Rayner, Emily L.",
-         "pages":"7633-7633"
+         "page":7633
       },
       {
          "title":"Ewen, John",
-         "pages":"7634-7647"
+         "page":7634
       },
       {
          "title":"Niles, W. W.",
-         "pages":"7648-7652"
+         "page":7648
       },
       {
          "title":"Barr, James P., 1879",
-         "pages":"7653-7658"
+         "page":7653
       },
       {
          "title":"Ford, Robert T.",
-         "pages":"7659-7661"
+         "page":7659
       },
       {
          "title":"Breckenridge, William C.",
-         "pages":"7662-7663"
+         "page":7662
       },
       {
          "title":"Averill, Horatio, 1862",
-         "pages":"7664-7666"
+         "page":7664
       },
       {
          "title":"Martin, Mattias",
-         "pages":"7667-7668"
+         "page":7667
       },
       {
          "title":"Pierson, Catherine H.",
-         "pages":"7669-7672"
+         "page":7669
       },
       {
          "title":"Crittenden, Thomas L.",
-         "pages":"7673-7674"
+         "page":7673
       },
       {
          "title":"Boas, H.K.",
-         "pages":"7675-7677"
+         "page":7675
       },
       {
          "title":"Miller, Theodore",
-         "pages":"7678-7691"
+         "page":7678
       },
       {
          "title":"Hopkins, Nelson K.",
-         "pages":"7692-7698"
+         "page":7692
       },
       {
          "title":"Bishop, R. M.",
-         "pages":"7699-7702"
+         "page":7699
       },
       {
          "title":"McCook, George W.",
-         "pages":"7703-7714"
+         "page":7703
       },
       {
          "title":"Capen, Nahum",
-         "pages":"7715-7746"
+         "page":7715
       },
       {
          "title":"Croswell, Edwin",
-         "pages":"7747-7759"
+         "page":7747
       },
       {
          "title":"Peck, George W.",
-         "pages":"7760-7774"
+         "page":7760
       },
       {
          "title":"Sherwood, Julius",
-         "pages":"7775-7776"
+         "page":7775
       },
       {
          "title":"McKenna, Charles",
-         "pages":"7777-7778"
+         "page":7777
       },
       {
          "title":"Moore, Eli",
-         "pages":"7779-7780"
+         "page":7779
       },
       {
          "title":"Mann, George S.",
-         "pages":"7781-7792"
+         "page":7781
       },
       {
          "title":"Swayne, E. B.",
-         "pages":"7793-7794"
+         "page":7793
       },
       {
          "title":"Hance, James",
-         "pages":"7795-7824"
+         "page":7795
       },
       {
          "title":"Smith, John Cotton",
-         "pages":"7825-7831"
+         "page":7825
       },
       {
          "title":"Hill, David Bennett",
-         "pages":"7832-7904"
+         "page":7832
       },
       {
          "title":"Roosevelt, Charles",
-         "pages":"7905-7906"
+         "page":7905
       },
       {
          "title":"Gottsberger, William S.",
-         "pages":"7907-7911"
+         "page":7907
       },
       {
          "title":"Seymour, John T.",
-         "pages":"7912-7915"
+         "page":7912
       },
       {
          "title":"Doolittle, James Rood",
-         "pages":"7916-7945"
+         "page":7916
       },
       {
          "title":"Fatman, Joseph",
-         "pages":"7946-7948"
+         "page":7946
       },
       {
          "title":"Stout, Francis A.",
-         "pages":"7949-7951"
+         "page":7949
       },
       {
          "title":"Read, John R.",
-         "pages":"7952-7953"
+         "page":7952
       },
       {
          "title":"MacMillan, A. K.",
-         "pages":"7954-7956"
+         "page":7954
       },
       {
          "title":"Jones, Reverdy",
-         "pages":"7957-7965"
+         "page":7957
       },
       {
          "title":"Stebbins, Charles",
-         "pages":"7966-8128"
+         "page":7966
       },
       {
          "title":"Mather, Samuel L.",
-         "pages":"8129-8130"
+         "page":8129
       },
       {
          "title":"Courtney, Samuel G.",
-         "pages":"8131-8147"
+         "page":8131
       },
       {
          "title":"Jarvis, Nathaniel",
-         "pages":"8148-8153"
+         "page":8148
       },
       {
          "title":"Hearst, Charles H.",
-         "pages":"8154-8156"
+         "page":8154
       },
       {
          "title":"Allen, Stephen, 1846",
-         "pages":"8157-8159"
+         "page":8157
       },
       {
          "title":"Thurston, C. B.",
-         "pages":"8160-8160"
+         "page":8160
       },
       {
          "title":"McHugh, James V.",
-         "pages":"8161-8162"
+         "page":8161
       },
       {
          "title":"Taylor, Alfred H.",
-         "pages":"8163-8181"
+         "page":8163
       },
       {
          "title":"Marble, Manton",
-         "pages":"8182-8281"
+         "page":8182
       },
       {
          "title":"Bushnell, C. M.",
-         "pages":"8282-8284"
+         "page":8282
       },
       {
          "title":"Hart, Emanuel B.",
-         "pages":"8285-8290"
+         "page":8285
       },
       {
          "title":"Burt, John",
-         "pages":"8291-8292"
+         "page":8291
       },
       {
          "title":"Bedford, Gunning J.",
-         "pages":"8293-8318"
+         "page":8293
       },
       {
          "title":"New York Church Extension & Missionary Society",
-         "pages":"8319-8320"
+         "page":8319
       },
       {
          "title":"Godwin, Parke",
-         "pages":"8321-8371"
+         "page":8321
       },
       {
          "title":"Foster, J. W.",
-         "pages":"8372-8383"
+         "page":8372
       },
       {
          "title":"Pryor, Roger A.",
-         "pages":"8384-8384"
+         "page":8384
       },
       {
          "title":"Gaston, William",
-         "pages":"8385-8387"
+         "page":8385
       },
       {
          "title":"Chase, Nelson",
-         "pages":"8388-8390"
+         "page":8388
       },
       {
          "title":"Porter, Anthony B,",
-         "pages":"8391-8393"
+         "page":8391
       },
       {
          "title":"Pruyn, John V. L.",
-         "pages":"8394-8400"
+         "page":8394
       },
       {
          "title":"Long, Alexander",
-         "pages":"8401-8409"
+         "page":8401
       },
       {
          "title":"Johnson, S. M.",
-         "pages":"8410-8414"
+         "page":8410
       },
       {
          "title":"Vaux, Calvert",
-         "pages":"8415-8442"
+         "page":8415
       },
       {
          "title":"Morse, Samuel F.B.",
-         "pages":"8443-8446"
+         "page":8443
       },
       {
          "title":"Wright, Horatio G.",
-         "pages":"8447-8467"
+         "page":8447
       },
       {
          "title":"Wilson, James Grant",
-         "pages":"8468-8471"
+         "page":8468
       },
       {
          "title":"Paine, N. E.",
-         "pages":"8472-8476"
+         "page":8472
       },
       {
          "title":"Sykes, Martin, L.",
-         "pages":"8477-8498"
+         "page":8477
       },
       {
          "title":"Newport, H.",
-         "pages":"8499-8504"
+         "page":8499
       },
       {
          "title":"Swayne, Charles",
-         "pages":"8505-8507"
+         "page":8505
       },
       {
          "title":"Wittenburg, T. C.",
-         "pages":"8508-8509"
+         "page":8508
       },
       {
          "title":"Burnett, Ward B.",
-         "pages":"8510-8514"
+         "page":8510
       },
       {
          "title":"Gould, Jay",
-         "pages":"8515-8540"
+         "page":8515
       },
       {
          "title":"Warner, S.",
-         "pages":"8541-8543"
+         "page":8541
       },
       {
          "title":"Foley, John A.",
-         "pages":"8544-8556"
+         "page":8544
       },
       {
          "title":"Lieberman, Henry",
-         "pages":"8557-8560"
+         "page":8557
       },
       {
          "title":"Fowler, Isaac V.",
-         "pages":"8561-8592"
+         "page":8561
       },
       {
          "title":"Shelby, W. R.",
-         "pages":"8593-8596"
+         "page":8593
       },
       {
          "title":"Andrews, J.D., 1861",
-         "pages":"8597-8599"
+         "page":8597
       },
       {
          "title":"Stokes, Thomas",
-         "pages":"8600-8600"
+         "page":8600
       },
       {
          "title":"Angel, B.F., 1848, 1875",
-         "pages":"8601-8607"
+         "page":8601
       },
       {
          "title":"Payne, H. B.",
-         "pages":"8608-8610"
+         "page":8608
       },
       {
          "title":"Beach, Allen C.",
-         "pages":"8611-8685"
+         "page":8611
       },
       {
          "title":"Chase, Franklin",
-         "pages":"8686-8706"
+         "page":8686
       },
       {
          "title":"Sands, Robert A.",
-         "pages":"8707-8712"
+         "page":8707
       },
       {
          "title":"Tremain, Lyman",
-         "pages":"8713-8716"
+         "page":8713
       },
       {
          "title":"Miller, W.",
-         "pages":"8717-8718"
+         "page":8717
       },
       {
          "title":"Guion, Clement",
-         "pages":"8719-8729"
+         "page":8719
       },
       {
          "title":"Davenport, John I.",
-         "pages":"8730-8730"
+         "page":8730
       },
       {
          "title":"Stimson, H. C.",
-         "pages":"8731-8742"
+         "page":8731
       },
       {
          "title":"Schuyler, S. D.",
-         "pages":"8743-8762"
+         "page":8743
       },
       {
          "title":"Pitts, Elias",
-         "pages":"8763-8871"
+         "page":8763
       },
       {
          "title":"Brown, Thomas",
-         "pages":"8872-8873"
+         "page":8872
       },
       {
          "title":"Garvin, S. B.",
-         "pages":"8874-8876"
+         "page":8874
       },
       {
          "title":"Thornhill, Thomas L.",
-         "pages":"8877-8879"
+         "page":8877
       },
       {
          "title":"Meyer, E.",
-         "pages":"8880-8883"
+         "page":8880
       },
       {
          "title":"Stoughton, E. W.",
-         "pages":"8884-8885"
+         "page":8884
       },
       {
          "title":"Seligman, J. P.",
-         "pages":"8886-8886"
+         "page":8886
       },
       {
          "title":"Choate, Joseph H.",
-         "pages":"8887-8887"
+         "page":8887
       },
       {
          "title":"Gunther, Charles Godfrey",
-         "pages":"8888-8888"
+         "page":8888
       },
       {
          "title":"English, William H.",
-         "pages":"8889-8897"
+         "page":8889
       },
       {
          "title":"Schulte, Eduard",
-         "pages":"8898-8899"
+         "page":8898
       },
       {
          "title":"Storey, W. F.",
-         "pages":"8900-8903"
+         "page":8900
       },
       {
          "title":"Thorn, Owen",
-         "pages":"8904-8906"
+         "page":8904
       },
       {
          "title":"Matthews, Stanley",
-         "pages":"8907-8908"
+         "page":8907
       },
       {
          "title":"Kernan, Nicholas",
-         "pages":"8909-8914"
+         "page":8909
       },
       {
          "title":"New York Produce & Maritime Independent Merchants Cleveland & Hendricks Club",
-         "pages":"8915-8918"
+         "page":8915
       },
       {
          "title":"Edmonds, John W.",
-         "pages":"8919-8968"
+         "page":8919
       },
       {
          "title":"Tracy, Charles",
-         "pages":"8969-8970"
+         "page":8969
       },
       {
          "title":"Olney, Peter",
-         "pages":"8971-8979"
+         "page":8971
       },
       {
          "title":"Bigler, William",
-         "pages":"8980-9046"
+         "page":8980
       },
       {
          "title":"Chilton, W. H.",
-         "pages":"9047-9048"
+         "page":9047
       },
       {
          "title":"Seward, G. W.",
-         "pages":"9049-9052"
+         "page":9049
       },
       {
          "title":"Ames, Oakes, 1867-1872",
-         "pages":"9053-9068"
+         "page":9053
       },
       {
          "title":"Jerome, Leonard W.",
-         "pages":"9069-9073"
+         "page":9069
       },
       {
          "title":"Thomas, P. H.",
-         "pages":"9074-9079"
+         "page":9074
       },
       {
          "title":"McGreal, Thomas J.",
-         "pages":"9080-9080"
+         "page":9080
       },
       {
          "title":"Weed, Smith M., 1866-1876",
-         "pages":"9081-9168"
+         "page":9081
       },
       {
          "title":"Parmely, T. N.",
-         "pages":"9169-9172"
+         "page":9169
       },
       {
          "title":"Murphy, Henry C.",
-         "pages":"9173-9185"
+         "page":9173
       },
       {
          "title":"Tuncliffe, George E.",
-         "pages":"9186-9208"
+         "page":9186
       },
       {
          "title":"Throop, Charlotte W.",
-         "pages":"9209-9215"
+         "page":9209
       },
       {
          "title":"Van Buren, William",
-         "pages":"9216-9218"
+         "page":9216
       },
       {
          "title":"Sweet, S. H.",
-         "pages":"9219-9221"
+         "page":9219
       },
       {
          "title":"Wallace, William A.",
-         "pages":"9222-9240"
+         "page":9222
       },
       {
          "title":"Thompson, H. O.",
-         "pages":"9241-9244"
+         "page":9241
       },
       {
          "title":"Edward, Henry P.",
-         "pages":"9245-9245"
+         "page":9245
       },
       {
          "title":"Willers, Diedrich Jr.",
-         "pages":"9246-9250"
+         "page":9246
       },
       {
          "title":"Sherman, Roger M.",
-         "pages":"9251-9253"
+         "page":9251
       },
       {
          "title":"Powell, William J.",
-         "pages":"9254-9257"
+         "page":9254
       },
       {
          "title":"Pillsbury, E. F.",
-         "pages":"9258-9260"
+         "page":9258
       },
       {
          "title":"Cisco, John Jay",
-         "pages":"9261-9265"
+         "page":9261
       },
       {
          "title":"Fraser, Robert F.",
-         "pages":"9266-9267"
+         "page":9266
       },
       {
          "title":"Smith, J. Lawrence",
-         "pages":"9268-9269"
+         "page":9268
       },
       {
          "title":"Bland, B.F.",
-         "pages":"9270-9276"
+         "page":9270
       },
       {
          "title":"Errett, Russell",
-         "pages":"9277-9277"
+         "page":9277
       },
       {
          "title":"Davis, Noah",
-         "pages":"9278-9280"
+         "page":9278
       },
       {
          "title":"Beerling, August",
-         "pages":"9281-9285"
+         "page":9281
       },
       {
          "title":"Gurney & Sons",
-         "pages":"9286-9291"
+         "page":9286
       },
       {
          "title":"Reid, John R.",
-         "pages":"9292-9324"
+         "page":9292
       },
       {
          "title":"Lang, Charles M.",
-         "pages":"9325-9327"
+         "page":9325
       },
       {
          "title":"Turnure, Arthur B.",
-         "pages":"9328-9329"
+         "page":9328
       },
       {
          "title":"Page, A. C.",
-         "pages":"9330-9332"
+         "page":9330
       },
       {
          "title":"Vanderbilt, William Henry",
-         "pages":"9333-9338"
+         "page":9333
       },
       {
          "title":"Kimball, C. P.",
-         "pages":"9339-9348"
+         "page":9339
       },
       {
          "title":"McKibben, J.",
-         "pages":"9349-9350"
+         "page":9349
       },
       {
          "title":"Harrisse, Henry",
-         "pages":"9351-9354"
+         "page":9351
       },
       {
          "title":"Magann, E. W.",
-         "pages":"9355-9355"
+         "page":9355
       },
       {
          "title":"Johnson, C.",
-         "pages":"9356-9358"
+         "page":9356
       },
       {
          "title":"West, David",
-         "pages":"9359-9382"
+         "page":9359
       },
       {
          "title":"Hand, Stephen D.",
-         "pages":"9383-9408"
+         "page":9383
       },
       {
          "title":"Young, James R.",
-         "pages":"9409-9420"
+         "page":9409
       },
       {
          "title":"Dewitt, William C.",
-         "pages":"9421-9439"
+         "page":9421
       },
       {
          "title":"Scott, John B.",
-         "pages":"9440-9443"
+         "page":9440
       },
       {
          "title":"Morgan, Edwin D.",
-         "pages":"9444-9446"
+         "page":9444
       },
       {
          "title":"Sherman, Isaac",
-         "pages":"9447-9452"
+         "page":9447
       },
       {
          "title":"Simmons, J. Edward",
-         "pages":"9453-9467"
+         "page":9453
       },
       {
          "title":"Barlow, S. L. M. (Samuel Latham Mitchill), 1860-1879",
-         "pages":"9468-9566"
+         "page":9468
       },
       {
          "title":"Richmond, J.M.",
-         "pages":"9567-9573"
+         "page":9567
       },
       {
          "title":"Griswold, W. D.",
-         "pages":"9574-9576"
+         "page":9574
       },
       {
          "title":"Delafield, Lewis",
-         "pages":"9577-9580"
+         "page":9577
       },
       {
          "title":"Miller, E.",
-         "pages":"9581-9583"
+         "page":9581
       },
       {
          "title":"Hogeboom, Tobias",
-         "pages":"9584-9585"
+         "page":9584
       },
       {
          "title":"Ditmars, Abraham D.",
-         "pages":"9586-9592"
+         "page":9586
       },
       {
          "title":"Belmont, Alva Vanderbilt",
-         "pages":"9593-9595"
+         "page":9593
       },
       {
          "title":"Watterson, Henry",
-         "pages":"9596-9692"
+         "page":9596
       },
       {
          "title":"Evesson, Henry",
-         "pages":"9693-9704"
+         "page":9693
       },
       {
          "title":"Stewart, A. T.",
-         "pages":"9705-9707"
+         "page":9705
       },
       {
          "title":"Conner, James",
-         "pages":"9708-9710"
+         "page":9708
       },
       {
          "title":"Southmayd, Charles F.",
-         "pages":"9711-9711"
+         "page":9711
       },
       {
          "title":"Romeyn, Theodore Bayard",
-         "pages":"9712-9715"
+         "page":9712
       },
       {
          "title":"Dickenson, Anna",
-         "pages":"9716-9735"
+         "page":9716
       },
       {
          "title":"Barnes, James",
-         "pages":"9736-9791"
+         "page":9736
       },
       {
          "title":"Pierce, Winslow",
-         "pages":"9792-9794"
+         "page":9792
       },
       {
          "title":"Camden, J. N.",
-         "pages":"9795-9797"
+         "page":9795
       },
       {
          "title":"Cornwall, George",
-         "pages":"9798-9801"
+         "page":9798
       },
       {
          "title":"Randolph, Theodore F.",
-         "pages":"9802-9807"
+         "page":9802
       },
       {
          "title":"Bartlett, Joseph J., 1874",
-         "pages":"9808-9815"
+         "page":9808
       },
       {
          "title":"Hibbard, T. R.",
-         "pages":"9816-9817"
+         "page":9816
       },
       {
          "title":"Pratt, Daniel",
-         "pages":"9818-9819"
+         "page":9818
       },
       {
          "title":"Depeyster, John Watts",
-         "pages":"9820-9821"
+         "page":9820
       },
       {
          "title":"Kelly, William",
-         "pages":"9822-9861"
+         "page":9822
       },
       {
          "title":"Bishop, George",
-         "pages":"9862-9862"
+         "page":9862
       },
       {
          "title":"Herrick, Anson",
-         "pages":"9863-9864"
+         "page":9863
       },
       {
          "title":"McClelland, John A.",
-         "pages":"9865-9923"
+         "page":9865
       },
       {
          "title":"Slack, Charles W.",
-         "pages":"9924-9925"
+         "page":9924
       },
       {
          "title":"Cardozo, Albert",
-         "pages":"9926-9929"
+         "page":9926
       },
       {
          "title":"McCloskey, Lawrence W.",
-         "pages":"9930-9937"
+         "page":9930
       },
       {
          "title":"Hadley, John L.",
-         "pages":"9938-9941"
+         "page":9938
       },
       {
          "title":"Loomis, A.",
-         "pages":"9942-9954"
+         "page":9942
       },
       {
          "title":"King, Rufus",
-         "pages":"9955-9956"
+         "page":9955
       },
       {
          "title":"Maryland State Agricultural & Mechanical Association",
-         "pages":"9957-9967"
+         "page":9957
       },
       {
          "title":"Barbour, John M., 1846, 1861, 1876",
-         "pages":"9968-9977"
+         "page":9968
       },
       {
          "title":"Ross, E. P.",
-         "pages":"9978-9979"
+         "page":9978
       },
       {
          "title":"Evarts, William M.",
-         "pages":"9980-9996"
+         "page":9980
       },
       {
          "title":"Dwight (first name unknown)",
-         "pages":"9997-9997"
+         "page":9997
       },
       {
          "title":"Newburgh Centennial Celebration Committee",
-         "pages":"9998-10005"
+         "page":9998
       },
       {
          "title":"Julian, George W.",
-         "pages":"10006-10020"
+         "page":10006
       },
       {
          "title":"Peck, John J.",
-         "pages":"10021-10028"
+         "page":10021
       },
       {
          "title":"Laning, Albert P.",
-         "pages":"10029-10030"
+         "page":10029
       },
       {
          "title":"Hoe, Annie L.",
-         "pages":"10031-10039"
+         "page":10031
       },
       {
          "title":"James, C. M.",
-         "pages":"10040-10042"
+         "page":10040
       },
       {
          "title":"Cottman, Thomas",
-         "pages":"10043-10053"
+         "page":10043
       },
       {
          "title":"Minier, S.",
-         "pages":"10054-10058"
+         "page":10054
       },
       {
          "title":"Corning, Erastus",
-         "pages":"10059-10075"
+         "page":10059
       },
       {
          "title":"Colgate, James B.",
-         "pages":"10076-10078"
+         "page":10076
       },
       {
          "title":"Butts, Isaac",
-         "pages":"10079-10099"
+         "page":10079
       },
       {
          "title":"Baldwin, George V. N., 1879",
-         "pages":"10100-10101"
+         "page":10100
       },
       {
          "title":"Sherman, Charles B.",
-         "pages":"10102-10169"
+         "page":10102
       },
       {
          "title":"Ganson, John",
-         "pages":"10170-10175"
+         "page":10170
       },
       {
          "title":"Gross, Magnus",
-         "pages":"10176-10178"
+         "page":10176
       },
       {
          "title":"Marcy, William Learned",
-         "pages":"10179-10214"
+         "page":10179
       },
       {
          "title":"Weed, Smith M., 1880-1881",
-         "pages":"10215-10284"
+         "page":10215
       },
       {
          "title":"Avery, J. T., 1830",
-         "pages":"10285-10288"
+         "page":10285
       },
       {
          "title":"Whitehead, D.",
-         "pages":"10289-10290"
+         "page":10289
       },
       {
          "title":"Lieb, Herman",
-         "pages":"10291-10292"
+         "page":10291
       },
       {
          "title":"Bliss, Archibald M.",
-         "pages":"10293-10295"
+         "page":10293
       },
       {
          "title":"Pentz, Adam P.",
-         "pages":"10296-10313"
+         "page":10296
       },
       {
          "title":"Cornell, Thomas B.",
-         "pages":"10314-10315"
+         "page":10314
       },
       {
          "title":"Gordon, John Brown",
-         "pages":"10316-10324"
+         "page":10316
       },
       {
          "title":"Kennedy, Joseph Camp Griffith",
-         "pages":"10325-10328"
+         "page":10325
       },
       {
          "title":"Copper, Frank",
-         "pages":"10329-10331"
+         "page":10329
       },
       {
          "title":"Porter, James D.",
-         "pages":"10332-10334"
+         "page":10332
       },
       {
          "title":"Hoover, J.D.",
-         "pages":"10335-10338"
+         "page":10335
       },
       {
          "title":"Russell, C. A.",
-         "pages":"10339-10340"
+         "page":10339
       },
       {
          "title":"Weed, Smith M., 1877-1879",
-         "pages":"10341-10424"
+         "page":10341
       },
       {
          "title":"Sarony, Otto",
-         "pages":"10425-10428"
+         "page":10425
       },
       {
          "title":"Woodward, James Otis",
-         "pages":"10429-10435"
+         "page":10429
       },
       {
          "title":"Cobb, Howell",
-         "pages":"10436-10443"
+         "page":10436
       },
       {
          "title":"Tallmadge, Nathaniel P.",
-         "pages":"10444-10446"
+         "page":10444
       },
       {
          "title":"Lee, Leonard",
-         "pages":"10447-10448"
+         "page":10447
       },
       {
          "title":"Blanchard, Newton Crane",
-         "pages":"10449-10450"
+         "page":10449
       },
       {
          "title":"Dana, Willam B.",
-         "pages":"10451-10452"
+         "page":10451
       },
       {
          "title":"Reis Brown & Berger",
-         "pages":"10453-10468"
+         "page":10453
       },
       {
          "title":"Troy House",
-         "pages":"10469-10470"
+         "page":10469
       },
       {
          "title":"Varian, Joshua M.",
-         "pages":"10471-10472"
+         "page":10471
       },
       {
          "title":"Hedges, Thomas A.",
-         "pages":"10473-10474"
+         "page":10473
       },
       {
          "title":"Preston, William",
-         "pages":"10475-10487"
+         "page":10475
       },
       {
          "title":"Quackenbos, N.",
-         "pages":"10488-10490"
+         "page":10488
       },
       {
          "title":"McCormic, Cyrus H,",
-         "pages":"10491-10505"
+         "page":10491
       },
       {
          "title":"Garnet, Henry Highland",
-         "pages":"10506-10506"
+         "page":10506
       },
       {
          "title":"Tucker, Gideon J.",
-         "pages":"10507-10508"
+         "page":10507
       },
       {
          "title":"Bowne, Samuel",
-         "pages":"10509-10511"
+         "page":10509
       },
       {
          "title":"Bush, William",
-         "pages":"10512-10513"
+         "page":10512
       },
       {
          "title":"Beach, William C.",
-         "pages":"10514-10526"
+         "page":10514
       },
       {
          "title":"Silliman, Benjamin D.",
-         "pages":"10527-10544"
+         "page":10527
       },
       {
          "title":"White, Philo",
-         "pages":"10545-10552"
+         "page":10545
       },
       {
          "title":"Ruggles, William B.",
-         "pages":"10553-10557"
+         "page":10553
       },
       {
          "title":"Burrit, James P.",
-         "pages":"10558-10558"
+         "page":10558
       },
       {
          "title":"Bosworth, Joseph S.",
-         "pages":"10559-10566"
+         "page":10559
       },
       {
          "title":"Palmer, G. W.",
-         "pages":"10567-10570"
+         "page":10567
       },
       {
          "title":"Cramer, William E.",
-         "pages":"10571-10578"
+         "page":10571
       },
       {
          "title":"Young, Thomas",
-         "pages":"10579-10580"
+         "page":10579
       },
       {
          "title":"Brown, William J.",
-         "pages":"10581-10586"
+         "page":10581
       },
       {
          "title":"Clinton, George W.",
-         "pages":"10587-10590"
+         "page":10587
       },
       {
          "title":"Roosevelt, James",
-         "pages":"10591-10603"
+         "page":10591
       },
       {
          "title":"Sinnot, James P.",
-         "pages":"10604-10627"
+         "page":10604
       },
       {
          "title":"Alley, Saul, 1846",
-         "pages":"10628-10631"
+         "page":10628
       },
       {
          "title":"McLean, Charles F.",
-         "pages":"10632-10635"
+         "page":10632
       },
       {
          "title":"Sweeney, Peter B.",
-         "pages":"10636-10666"
+         "page":10636
       },
       {
          "title":"Smith, E. Delafield",
-         "pages":"10667-10677"
+         "page":10667
       },
       {
          "title":"Call, Wilkinson",
-         "pages":"10678-10696"
+         "page":10678
       },
       {
          "title":"Browere, A.D.O.",
-         "pages":"10697-10699"
+         "page":10697
       },
       {
          "title":"Green, Andrew H.",
-         "pages":"10700-10780"
+         "page":10700
       },
       {
          "title":"Lawrence, A. R.",
-         "pages":"10781-10783"
+         "page":10781
       },
       {
          "title":"Dunlap, George L.",
-         "pages":"10784-10784"
+         "page":10784
       },
       {
          "title":"Matthews, James",
-         "pages":"10785-10787"
+         "page":10785
       },
       {
          "title":"Reis, George C.",
-         "pages":"10788-10796"
+         "page":10788
       },
       {
          "title":"Sayre, Lewis A.",
-         "pages":"10797-10799"
+         "page":10797
       },
       {
          "title":"White, William Pinkney",
-         "pages":"10800-10808"
+         "page":10800
       },
       {
          "title":"Stone, A.",
-         "pages":"10809-10810"
+         "page":10809
       },
       {
          "title":"Smythe, H. A.",
-         "pages":"10811-10812"
+         "page":10811
       },
       {
          "title":"Cutting, F. B. (Francis Brockholst)",
-         "pages":"10813-10814"
+         "page":10813
       },
       {
          "title":"Usher, J.P.",
-         "pages":"10815-10878"
+         "page":10815
       },
       {
          "title":"Sherman, Henry A.",
-         "pages":"10879-10880"
+         "page":10879
       },
       {
          "title":"Ferris, Isaac",
-         "pages":"10881-10881"
+         "page":10881
       },
       {
          "title":"Cox, Samuel Sullivan",
-         "pages":"10882-10935"
+         "page":10882
       },
       {
          "title":"Hawley, William S.",
-         "pages":"10936-10938"
+         "page":10936
       },
       {
          "title":"Ireland, J. Edward",
-         "pages":"10939-10940"
+         "page":10939
       },
       {
          "title":"Laurence, M.",
-         "pages":"10941-10942"
+         "page":10941
       },
       {
          "title":"Arnut, John, 1866-1872",
-         "pages":"10943-10949"
+         "page":10943
       },
       {
          "title":"Schoonmaker, Augustus Jr.",
-         "pages":"10950-10959"
+         "page":10950
       },
       {
          "title":"Jackson, H. J.",
-         "pages":"10960-10962"
+         "page":10960
       },
       {
          "title":"Peaslee, Charles H.",
-         "pages":"10963-10997"
+         "page":10963
       },
       {
          "title":"Lord, Scott",
-         "pages":"10998-11011"
+         "page":10998
       },
       {
          "title":"Stevens, Alexander W.",
-         "pages":"11012-11014"
+         "page":11012
       },
       {
          "title":"Swayne, Noah Haynes",
-         "pages":"11015-11099"
+         "page":11015
       },
       {
          "title":"Cuyler, Theodore",
-         "pages":"11100-11102"
+         "page":11100
       },
       {
          "title":"Winslow, Lanier & Company",
-         "pages":"11103-11114"
+         "page":11103
       },
       {
          "title":"Dufferns�(first name unknown)",
-         "pages":"11115-11117"
+         "page":11115
       },
       {
          "title":"Carrigan, Andrew",
-         "pages":"11118-11127"
+         "page":11118
       },
       {
          "title":"Hendee, Richard S.",
-         "pages":"11128-11130"
+         "page":11128
       },
       {
          "title":"Fillmore, Millard",
-         "pages":"11131-11186"
+         "page":11131
       },
       {
          "title":"Morse, Leila",
-         "pages":"11187-11214"
+         "page":11187
       },
       {
          "title":"Dix, John A.",
-         "pages":"11215-11297"
+         "page":11215
       },
       {
          "title":"Dessar, Leo C.",
-         "pages":"11298-11299"
+         "page":11298
       },
       {
          "title":"Grace, William R.",
-         "pages":"11300-11312"
+         "page":11300
       },
       {
          "title":"Wetmore, Prosper Montgomery",
-         "pages":"11313-11318"
+         "page":11313
       },
       {
          "title":"Crosswell, S.",
-         "pages":"11319-11329"
+         "page":11319
       },
       {
          "title":"Lambert, Edward",
-         "pages":"11330-11331"
+         "page":11330
       },
       {
          "title":"Terry, Edmond",
-         "pages":"11332-11333"
+         "page":11332
       },
       {
          "title":"Charlick, William H.",
-         "pages":"11334-11335"
+         "page":11334
       },
       {
          "title":"Vanderbilt, Cornelius",
-         "pages":"11336-11340"
+         "page":11336
       },
       {
          "title":"Langtree, Miss",
-         "pages":"11341-11341"
+         "page":11341
       },
       {
          "title":"Curran, John P.",
-         "pages":"11342-11343"
+         "page":11342
       },
       {
          "title":"Seeger, F.",
-         "pages":"11344-11347"
+         "page":11344
       },
       {
          "title":"Perry, Abner",
-         "pages":"11348-11349"
+         "page":11348
       },
       {
          "title":"McLane, Robert M.",
-         "pages":"11350-11432"
+         "page":11350
       },
       {
          "title":"Gwin, William M. {1863 , 1876",
-         "pages":"11433-11483"
+         "page":11433
       },
       {
          "title":"Bernhardt, Sarah",
-         "pages":"11484-11489"
+         "page":11484
       },
       {
          "title":"Woodward, John B.",
-         "pages":"11490-11499"
+         "page":11490
       },
       {
          "title":"Roberts, Marshall O.",
-         "pages":"11500-11502"
+         "page":11500
       },
       {
          "title":"Sheldon, Edwin H.",
-         "pages":"11503-11511"
+         "page":11503
       },
       {
          "title":"Stryker, John L.",
-         "pages":"11512-11523"
+         "page":11512
       },
       {
          "title":"Thompson, John G.",
-         "pages":"11524-11529"
+         "page":11524
       },
       {
          "title":"McClellan, Robert",
-         "pages":"11530-11549"
+         "page":11530
       },
       {
          "title":"O'Brien, Denis",
-         "pages":"11550-11557"
+         "page":11550
       },
       {
          "title":"Sutherland, Isaiah",
-         "pages":"11558-11562"
+         "page":11558
       },
       {
          "title":"Tucker, J. R.",
-         "pages":"11563-11567"
+         "page":11563
       },
       {
          "title":"Bangs, N.D., 1871-1875",
-         "pages":"11568-11575"
+         "page":11568
       },
       {
          "title":"Lanier, Charles",
-         "pages":"11576-11593"
+         "page":11576
       },
       {
          "title":"Springer, William M.",
-         "pages":"11594-11620"
+         "page":11594
       },
       {
          "title":"Bramhall, Charles",
-         "pages":"11621-11628"
+         "page":11621
       },
       {
          "title":"McCloskey, Felix",
-         "pages":"11629-11631"
+         "page":11629
       },
       {
          "title":"Butler, Benjamin F. ",
-         "pages":"11632-11664"
+         "page":11632
       },
       {
          "title":"Jackson, James",
-         "pages":"11665-11666"
+         "page":11665
       },
       {
          "title":"Morris, Fordham",
-         "pages":"11667-11674"
+         "page":11667
       },
       {
          "title":"Biddle, George W.",
-         "pages":"11675-11676"
+         "page":11675
       },
       {
          "title":"Tweed, William Marcy",
-         "pages":"11677-11683"
+         "page":11677
       },
       {
          "title":"Walker, Henry",
-         "pages":"11684-11695"
+         "page":11684
       },
       {
          "title":"Beardsley, A.M.",
-         "pages":"11696-11697"
+         "page":11696
       },
       {
          "title":"Wheeler, Charles C.",
-         "pages":"11698-11699"
+         "page":11698
       },
       {
          "title":"Lamont, Daniel S.",
-         "pages":"11700-11760"
+         "page":11700
       },
       {
          "title":"Robinson, Lucius",
-         "pages":"11761-11786"
+         "page":11761
       },
       {
          "title":"Caldwell, Samuel D.",
-         "pages":"11787-11787"
+         "page":11787
       },
       {
          "title":"North, James",
-         "pages":"11788-11790"
+         "page":11788
       },
       {
          "title":"Whitney, William C.",
-         "pages":"11791-11843"
+         "page":11791
       },
       {
          "title":"Kerr, M. C.",
-         "pages":"11844-11849"
+         "page":11844
       },
       {
          "title":"Harrington, George",
-         "pages":"11850-11851"
+         "page":11850
       },
       {
          "title":"Porter, Fitzjohn",
-         "pages":"11852-11856"
+         "page":11852
       },
       {
          "title":"Wingate, George W.",
-         "pages":"11857-11860"
+         "page":11857
       },
       {
          "title":"Peyton, J. E.",
-         "pages":"11861-11862"
+         "page":11861
       },
       {
          "title":"Parmenter, Jerome B.",
-         "pages":"11863-11863"
+         "page":11863
       },
       {
          "title":"Davis, Emerson  E.",
-         "pages":"11864-11867"
+         "page":11864
       },
       {
          "title":"Alley, John P., 1875",
-         "pages":"11868-11869"
+         "page":11868
       },
       {
          "title":"Marsh, Luther R.",
-         "pages":"11870-11873"
+         "page":11870
       },
       {
          "title":"Fish, Henry L.",
-         "pages":"11874-11894"
+         "page":11874
       },
       {
          "title":"Parker, Alton B.",
-         "pages":"11895-11903"
+         "page":11895
       },
       {
          "title":"Miller, George McCullough",
-         "pages":"11904-11904"
+         "page":11904
       },
       {
          "title":"McCullough, James N.",
-         "pages":"11905-11913"
+         "page":11905
       },
       {
          "title":"McKnight, D. A. W.",
-         "pages":"11914-11933"
+         "page":11914
       },
       {
          "title":"Cassidy, William",
-         "pages":"11934-12075"
+         "page":11934
       },
       {
          "title":"Seward, Json W.",
-         "pages":"12076-12079"
+         "page":12076
       },
       {
          "title":"Bucknor, C. B.",
-         "pages":"12080-12081"
+         "page":12080
       },
       {
          "title":"Ottendorfer, Oswald",
-         "pages":"12082-12091"
+         "page":12082
       },
       {
          "title":"Prescott (first name unknown)",
-         "pages":"12092-12095"
+         "page":12092
       },
       {
          "title":"Lathers, Richard",
-         "pages":"12096-12100"
+         "page":12096
       },
       {
          "title":"Taintor, Henry Fox",
-         "pages":"12101-12118"
+         "page":12101
       },
       {
          "title":"Reid, John A.",
-         "pages":"12119-12121"
+         "page":12119
       },
       {
          "title":"Weed, Smith M., 1882-1883",
-         "pages":"12122-12178"
+         "page":12122
       },
       {
          "title":"Abbot, Fred K., 1885-1886",
-         "pages":"12179-12184"
+         "page":12179
       },
       {
          "title":"Weed, Smith M., 1884-1885",
-         "pages":"12185-12275"
+         "page":12185
       },
       {
          "title":"Lunt, George",
-         "pages":"12276-12284"
+         "page":12276
       },
       {
          "title":"Montgomery, S. M.",
-         "pages":"12285-12286"
+         "page":12285
       },
       {
          "title":"Bradbury, James W.",
-         "pages":"12287-12288"
+         "page":12287
       },
       {
          "title":"Jones, George",
-         "pages":"12289-12294"
+         "page":12289
       },
       {
          "title":"Richmond, Henry A.",
-         "pages":"12295-12328"
+         "page":12295
       },
       {
          "title":"Fodell, W. P.",
-         "pages":"12329-12330"
+         "page":12329
       },
       {
          "title":"Dewolf, Delos",
-         "pages":"12331-12339"
+         "page":12331
       },
       {
          "title":"White, Peter",
-         "pages":"12340-12349"
+         "page":12340
       },
       {
          "title":"Thatcher, Thomas A.",
-         "pages":"12350-12353"
+         "page":12350
       },
       {
          "title":"Lee, Frederick",
-         "pages":"12354-12355"
+         "page":12354
       },
       {
          "title":"Smalley, George W.",
-         "pages":"12356-12360"
+         "page":12356
       },
       {
          "title":"Parker, Amasa J.",
-         "pages":"12361-12388"
+         "page":12361
       },
       {
          "title":"Bovee, Marvin H.",
-         "pages":"12389-12398"
+         "page":12389
       },
       {
          "title":"Landon, M.D.",
-         "pages":"12399-12401"
+         "page":12399
       },
       {
          "title":"Westbrook, Theodoric R.",
-         "pages":"12402-12415"
+         "page":12402
       },
       {
          "title":"Dayton, Charles",
-         "pages":"12416-12417"
+         "page":12416
       },
       {
          "title":"Edwards, B. S.",
-         "pages":"12418-12419"
+         "page":12418
       },
       {
          "title":"Chase, Salmon P.",
-         "pages":"12420-12423"
+         "page":12420
       },
       {
          "title":"Hitchcock, (First name unknown)",
-         "pages":"12424-12425"
+         "page":12424
       },
       {
          "title":"Palmer, John M.",
-         "pages":"12426-12427"
+         "page":12426
       },
       {
          "title":"Continental Hotel",
-         "pages":"12428-12428"
+         "page":12428
       },
       {
          "title":"Potter, Eliphalet Nott",
-         "pages":"12429-12440"
+         "page":12429
       },
       {
          "title":"Di Cesnola, Luigi Palma",
-         "pages":"12441-12442"
+         "page":12441
       },
       {
          "title":"Hughes, Charles",
-         "pages":"12443-12446"
+         "page":12443
       },
       {
          "title":"Woodbury, Charles H.",
-         "pages":"12447-12449"
+         "page":12447
       },
       {
          "title":"Whitney, Charles A.",
-         "pages":"12450-12451"
+         "page":12450
       },
       {
          "title":"Minturn, Robert Bowne",
-         "pages":"12452-12488"
+         "page":12452
       },
       {
          "title":"Ransom, Benjamin",
-         "pages":"12489-12490"
+         "page":12489
       },
       {
          "title":"Warner, Joseph",
-         "pages":"12491-12491"
+         "page":12491
       },
       {
          "title":"Ely, Smith",
-         "pages":"12492-12496"
+         "page":12492
       },
       {
          "title":"Kimmond, W.",
-         "pages":"12497-12498"
+         "page":12497
       },
       {
          "title":"Morton, Levi Parsons",
-         "pages":"12499-12500"
+         "page":12499
       },
       {
          "title":"Butler, Charles P.",
-         "pages":"12501-12519"
+         "page":12501
       },
       {
          "title":"Champlain, M.B.",
-         "pages":"12520-12540"
+         "page":12520
       },
       {
          "title":"Hutchings, Robert",
-         "pages":"12541-12546"
+         "page":12541
       },
       {
          "title":"Seward, Clarence A.",
-         "pages":"12547-12549"
+         "page":12547
       },
       {
          "title":"Humphrey, J.",
-         "pages":"12550-12553"
+         "page":12550
       },
       {
          "title":"Gilbert, Edward",
-         "pages":"12554-12558"
+         "page":12554
       },
       {
          "title":"Schell, Augustus",
-         "pages":"12559-12582"
+         "page":12559
       },
       {
          "title":"Ferguson, William",
-         "pages":"12583-12590"
+         "page":12583
       },
       {
          "title":"Bradbury, A. W.",
-         "pages":"12591-12593"
+         "page":12591
       },
       {
          "title":"Johnson, Andrew",
-         "pages":"12594-12605"
+         "page":12594
       },
       {
          "title":"Johnson, S.C.",
-         "pages":"12606-12610"
+         "page":12606
       },
       {
          "title":"Ferguson, John",
-         "pages":"12611-12619"
+         "page":12611
       },
       {
          "title":"Hanscomb, A. H.",
-         "pages":"12620-12621"
+         "page":12620
       },
       {
          "title":"Hill, Benjamin H.",
-         "pages":"12622-12625"
+         "page":12622
       },
       {
          "title":"Rapallo, C. H.",
-         "pages":"12626-12627"
+         "page":12626
       },
       {
          "title":"Douglas, E. A.",
-         "pages":"12628-12630"
+         "page":12628
       },
       {
          "title":"Dillon, Sidney",
-         "pages":"12631-12639"
+         "page":12631
       },
       {
          "title":"Townsend, Franklin",
-         "pages":"12640-12661"
+         "page":12640
       },
       {
          "title":"Barrow, Eustace, 1864",
-         "pages":"12662-12664"
+         "page":12662
       },
       {
          "title":"Delmar, Alexander",
-         "pages":"12665-12668"
+         "page":12665
       },
       {
          "title":"Harmon, John Henry",
-         "pages":"12669-12676"
+         "page":12669
       },
       {
          "title":"Comstock, Elon",
-         "pages":"12677-12685"
+         "page":12677
       },
       {
          "title":"Wood, Benjamin R.",
-         "pages":"12686-12692"
+         "page":12686
       },
       {
          "title":"Grover, Martin",
-         "pages":"12693-12709"
+         "page":12693
       },
       {
          "title":"Kettell, Thomas P.",
-         "pages":"12710-12714"
+         "page":12710
       },
       {
          "title":"Biddle, Clement C.",
-         "pages":"12715-12716"
+         "page":12715
       },
       {
          "title":"Johnson, J. S.",
-         "pages":"12717-12719"
+         "page":12717
       },
       {
          "title":"Hall, John",
-         "pages":"12720-12725"
+         "page":12720
       },
       {
          "title":"Sterne, Simon",
-         "pages":"12726-12742"
+         "page":12726
       },
       {
          "title":"Belmont, August",
-         "pages":"12743-12843"
+         "page":12743
       },
       {
          "title":"Black, Jeremiah S.",
-         "pages":"12844-12891"
+         "page":12844
       },
       {
          "title":"McKelvey, St. Clair",
-         "pages":"12892-12898"
+         "page":12892
       },
       {
          "title":"Parker, Joel",
-         "pages":"12899-12911"
+         "page":12899
       },
       {
          "title":"Henderson, Isaac",
-         "pages":"12912-12916"
+         "page":12912
       },
       {
          "title":"Nilsson, Christine",
-         "pages":"12917-12919"
+         "page":12917
       },
       {
          "title":"Patterson, C. Y.",
-         "pages":"12920-12923"
+         "page":12920
       },
       {
          "title":"Clunie, Thomas J.",
-         "pages":"12924-12925"
+         "page":12924
       },
       {
          "title":"Janes, M. E.",
-         "pages":"12926-12926"
+         "page":12926
       },
       {
          "title":"Wood, Fernando",
-         "pages":"12927-12951"
+         "page":12927
       },
       {
          "title":"Van Buren, Martin",
-         "pages":"12952-13059"
+         "page":12952
       },
       {
          "title":"Johnson, C. S.",
-         "pages":"13060-13060"
+         "page":13060
       },
       {
          "title":"Flower, R. P.",
-         "pages":"13061-13096"
+         "page":13061
       },
       {
          "title":"Halsey, Gaius Leonard",
-         "pages":"13097-13098"
+         "page":13097
       },
       {
          "title":"Matsell, George W.",
-         "pages":"13099-13111"
+         "page":13099
       },
       {
          "title":"Burr, Alfred Edmond",
-         "pages":"13112-13116"
+         "page":13112
       },
       {
          "title":"Conkling, Roscoe",
-         "pages":"13117-13118"
+         "page":13117
       },
       {
          "title":"Burrill, John E.",
-         "pages":"13119-13121"
+         "page":13119
       },
       {
          "title":"Green, George",
-         "pages":"13122-13127"
+         "page":13122
       },
       {
          "title":"Alexander, Henry M., 1876",
-         "pages":"13128-13137"
+         "page":13128
       },
       {
          "title":"Schuey, Thomas F.",
-         "pages":"13138-13140"
+         "page":13138
       },
       {
          "title":"Hilton, Henry",
-         "pages":"13141-13141"
+         "page":13141
       },
       {
          "title":"Ewing, Thomas",
-         "pages":"13142-13153"
+         "page":13142
       },
       {
          "title":"Comstock, Calvert",
-         "pages":"13154-13162"
+         "page":13154
       },
       {
          "title":"Smith, Cabb",
-         "pages":"13163-13172"
+         "page":13163
       },
       {
          "title":"Scott, W. L.",
-         "pages":"13173-13179"
+         "page":13173
       },
       {
          "title":"Thrasher, John Sidney",
-         "pages":"13180-13182"
+         "page":13180
       },
       {
          "title":"Cromwell, H.A.",
-         "pages":"13183-13185"
+         "page":13183
       },
       {
          "title":"Burton, Charles",
-         "pages":"13186-13190"
+         "page":13186
       },
       {
          "title":"McCagg, E. B.",
-         "pages":"13191-13193"
+         "page":13191
       },
       {
          "title":"Bissell, T.P.",
-         "pages":"13194-13196"
+         "page":13194
       },
       {
          "title":"Raguet, Conde",
-         "pages":"13197-13205"
+         "page":13197
       },
       {
          "title":"Faulkner, Lester B.",
-         "pages":"13206-13223"
+         "page":13206
       },
       {
          "title":"Pontroell, George S.",
-         "pages":"13224-13225"
+         "page":13224
       },
       {
          "title":"Blair, Montgomery",
-         "pages":"13226-13468"
+         "page":13226
       },
       {
          "title":"Vanderpoel, Aaron",
-         "pages":"13469-13517"
+         "page":13469
       },
       {
          "title":"Waterbury, Nelson J.",
-         "pages":"13518-13706"
+         "page":13518
       },
       {
          "title":"Robinson, David C.",
-         "pages":"13707-13716"
+         "page":13707
       },
       {
          "title":"Nott, Eliphalet",
-         "pages":"13717-13717"
+         "page":13717
       },
       {
          "title":"Bradbury, Bion",
-         "pages":"13718-13725"
+         "page":13718
       },
       {
          "title":"Ingersoll, Colin MacRae",
-         "pages":"13726-13732"
+         "page":13726
       },
       {
          "title":"Baring, Thomas, 1884",
-         "pages":"13733-13735"
+         "page":13733
       },
       {
          "title":"Bartlett, William O., 1878-1881",
-         "pages":"13736-13746"
+         "page":13736
       },
       {
          "title":"Morrissey, John",
-         "pages":"13747-13757"
+         "page":13747
       },
       {
          "title":"Raymond, Henry Jarvis",
-         "pages":"13758-13760"
+         "page":13758
       },
       {
          "title":"Morrison, William Ralls",
-         "pages":"13761-13768"
+         "page":13761
       },
       {
          "title":"Bedient, J. J.",
-         "pages":"13769-13772"
+         "page":13769
       },
       {
          "title":"Burnett, Daniel",
-         "pages":"13773-13775"
+         "page":13773
       },
       {
          "title":"Downing, George T.",
-         "pages":"13776-13780"
+         "page":13776
       },
       {
          "title":"Manning, Daniel",
-         "pages":"13781-14123"
+         "page":13781
       },
       {
          "title":"Vaughn, Virginia",
-         "pages":"14124-14126"
+         "page":14124
       },
       {
          "title":"Marsh, Ebenezer S.",
-         "pages":"14127-14128"
+         "page":14127
       },
       {
          "title":"Van Ness, Jesse",
-         "pages":"14129-14131"
+         "page":14129
       },
       {
          "title":"Church, Sanford E.",
-         "pages":"14132-14230"
+         "page":14132
       },
       {
          "title":"Brown, Julius",
-         "pages":"14231-14236"
+         "page":14231
       },
       {
          "title":"Butler, William Allen",
-         "pages":"14237-14305"
+         "page":14237
       },
       {
          "title":"Ranney, Rufus W.",
-         "pages":"14306-14322"
+         "page":14306
       },
       {
          "title":"Pendleton, George H.",
-         "pages":"14323-14326"
+         "page":14323
       },
       {
          "title":"Bache, Franklin, 1841",
-         "pages":"14327-14330"
+         "page":14327
       },
       {
          "title":"Hall, A. Oakey",
-         "pages":"14331-14350"
+         "page":14331
       },
       {
          "title":"Daly, Charles P.",
-         "pages":"14351-14366"
+         "page":14351
       },
       {
          "title":"Wetmore, W. L.",
-         "pages":"14367-14398"
+         "page":14367
       },
       {
          "title":"Cloyes, William O.",
-         "pages":"14399-14403"
+         "page":14399
       },
       {
          "title":"Doubleday, A.",
-         "pages":"14404-14405"
+         "page":14404
       },
       {
          "title":"Tracey, James F.",
-         "pages":"14406-14406"
+         "page":14406
       },
       {
          "title":"Springer, R. R.",
-         "pages":"14407-14410"
+         "page":14407
       },
       {
          "title":"Priest, John G.",
-         "pages":"14411-14412"
+         "page":14411
       },
       {
          "title":"Reid, William B.",
-         "pages":"14413-14415"
+         "page":14413
       },
       {
          "title":"Hayden, M. W.",
-         "pages":"14416-14418"
+         "page":14416
       },
       {
          "title":"Groesbeck, William Slocum",
-         "pages":"14419-14423"
+         "page":14419
       },
       {
          "title":"Maxwell, Hugh",
-         "pages":"14424-14425"
+         "page":14424
       },
       {
          "title":"Cornell, Alonzo B.",
-         "pages":"14426-14438"
+         "page":14426
       },
       {
          "title":"Bigelow, Poultney",
-         "pages":"14439-14445"
+         "page":14439
       },
       {
          "title":"Smith, George Wilson",
-         "pages":"14446-14501"
+         "page":14446
       },
       {
          "title":"Orr, Alexander Ector",
-         "pages":"14502-14511"
+         "page":14502
       },
       {
          "title":"Cook, Theodore P.",
-         "pages":"14512-14524"
+         "page":14512
       },
       {
          "title":"Curtis, George Ticknor",
-         "pages":"14525-14581"
+         "page":14525
       },
       {
          "title":"Thompson, J. Edgar",
-         "pages":"14582-14593"
+         "page":14582
       },
       {
          "title":"Lowell, Josephine Shaw",
-         "pages":"14594-14633"
+         "page":14594
       },
       {
          "title":"Hopkins, Francis",
-         "pages":"14634-14637"
+         "page":14634
       },
       {
          "title":"Schuyler, Louisa Lee",
-         "pages":"14638-14640"
+         "page":14638
       },
       {
          "title":"Clancy, John",
-         "pages":"14641-14643"
+         "page":14641
       },
       {
          "title":"Tobey. F. W.",
-         "pages":"14644-14649"
+         "page":14644
       },
       {
          "title":"Leitch, John M.",
-         "pages":"14650-14650"
+         "page":14650
       },
       {
          "title":"Pierce, Walter",
-         "pages":"14651-14652"
+         "page":14651
       },
       {
          "title":"Cleveland, O.",
-         "pages":"14653-14653"
+         "page":14653
       },
       {
          "title":"Howlett, H. R.",
-         "pages":"14654-14655"
+         "page":14654
       },
       {
          "title":"West, Dewitt C.",
-         "pages":"14656-14658"
+         "page":14656
       },
       {
          "title":"Hawley, John B.",
-         "pages":"14659-14659"
+         "page":14659
       },
       {
          "title":"Connolly, Richard B.",
-         "pages":"14660-14664"
+         "page":14660
       },
       {
          "title":"Hawley, Seth C.",
-         "pages":"14665-14678"
+         "page":14665
       },
       {
          "title":"Nooney, Robert B.",
-         "pages":"14679-14679"
+         "page":14679
       },
       {
          "title":"Cunard Line",
-         "pages":"14680-14680"
+         "page":14680
       },
       {
          "title":"Blain, William",
-         "pages":"14681-14688"
+         "page":14681
       },
       {
          "title":"North Chicago Rolling Mill Company",
-         "pages":"14689-14694"
+         "page":14689
       },
       {
          "title":"McCoppin, Frank",
-         "pages":"14695-14697"
+         "page":14695
       },
       {
          "title":"Swan, Charles H.",
-         "pages":"14698-14701"
+         "page":14698
       },
       {
          "title":"Wickham, William H., 1872-1875  Feb.",
-         "pages":"14702-14782"
+         "page":14702
       },
       {
          "title":"Schuyler, George W.",
-         "pages":"14783-14790"
+         "page":14783
       },
       {
          "title":"Brown, Charles P.",
-         "pages":"14791-14795"
+         "page":14791
       },
       {
          "title":"O'Conor, Charles S.",
-         "pages":"14796-15018"
+         "page":14796
       },
       {
          "title":"Hyatt, Stephen",
-         "pages":"15019-15020"
+         "page":15019
       },
       {
          "title":"Sanders, George W.",
-         "pages":"15021-15032"
+         "page":15021
       },
       {
          "title":"Rahallo, Charles A.",
-         "pages":"15033-15037"
+         "page":15033
       },
       {
          "title":"Moulton, Steven D.",
-         "pages":"15038-15040"
+         "page":15038
       },
       {
          "title":"Shaw, Samuel M.",
-         "pages":"15041-15052"
+         "page":15041
       },
       {
          "title":"Thayer, J. S.",
-         "pages":"15053-15054"
+         "page":15053
       },
       {
          "title":"Grout, Paul",
-         "pages":"15055-15057"
+         "page":15055
       },
       {
          "title":"Dodge, J. L.",
-         "pages":"15058-15058"
+         "page":15058
       },
       {
          "title":"Compton, John",
-         "pages":"15059-15062"
+         "page":15059
       },
       {
          "title":"Chandler, Charles H.",
-         "pages":"15063-15067"
+         "page":15063
       },
       {
          "title":"Gardiner, Thomas A.",
-         "pages":"15068-15070"
+         "page":15068
       },
       {
          "title":"Childs, George Washington",
-         "pages":"15071-15098"
+         "page":15071
       },
       {
          "title":"Coke, Richard",
-         "pages":"15099-15100"
+         "page":15099
       },
       {
          "title":"Clark, E.",
-         "pages":"15101-15102"
+         "page":15101
       },
       {
          "title":"Hall, Parris",
-         "pages":"15103-15104"
+         "page":15103
       },
       {
          "title":"Doheney, John",
-         "pages":"15105-15105"
+         "page":15105
       },
       {
          "title":"Taylor, Douglas",
-         "pages":"15106-15115"
+         "page":15106
       },
       {
          "title":"Scovel, James M. 1876 , 1885}",
-         "pages":"15116-15148"
+         "page":15116
       },
       {
          "title":"Russell, W. J.",
-         "pages":"15149-15151"
+         "page":15149
       },
       {
          "title":"Hardin, C. H.",
-         "pages":"15152-15154"
+         "page":15152
       },
       {
          "title":"Cummings, George P.",
-         "pages":"15155-15156"
+         "page":15155
       },
       {
          "title":"Gillet, Ransom H.",
-         "pages":"15157-15172"
+         "page":15157
       },
       {
          "title":"Cassidy, Clinton",
-         "pages":"15173-15185"
+         "page":15173
       },
       {
          "title":"Purcell, William",
-         "pages":"15186-15227"
+         "page":15186
       },
       {
          "title":"Pinkney, Campbell W.",
-         "pages":"15228-15232"
+         "page":15228
       },
       {
          "title":"Meade, Nathan B.",
-         "pages":"15233-15233"
+         "page":15233
       },
       {
          "title":"Hedges, Miss (First name unknown)",
-         "pages":"15234-15241"
+         "page":15234
       },
       {
          "title":"Falck, L.",
-         "pages":"15242-15244"
+         "page":15242
       },
       {
          "title":"Gross, (First name unknown)",
-         "pages":"15245-15246"
+         "page":15245
       },
       {
          "title":"Campbell, Freeman",
-         "pages":"15247-15249"
+         "page":15247
       },
       {
          "title":"Voorhees, D. W.",
-         "pages":"15250-15251"
+         "page":15250
       },
       {
          "title":"North, Samuel",
-         "pages":"15252-15259"
+         "page":15252
       },
       {
          "title":"Thurston, A. S.",
-         "pages":"15260-15261"
+         "page":15260
       },
       {
          "title":"Bacon, Marshal J., 1838-1839",
-         "pages":"15262-15265"
+         "page":15262
       },
       {
          "title":"McKeon, John",
-         "pages":"15266-15273"
+         "page":15266
       },
       {
          "title":"Wright, William B.",
-         "pages":"15274-15277"
+         "page":15274
       },
       {
          "title":"Beekman, J. P. (John Pruyn)",
-         "pages":"15278-15288"
+         "page":15278
       },
       {
          "title":"Sickey, Daniel E.",
-         "pages":"15289-15291"
+         "page":15289
       },
       {
          "title":"Hazard, Rowland Gibson",
-         "pages":"15292-15293"
+         "page":15292
       },
       {
          "title":"Babcock, N., 1846",
-         "pages":"15294-15294"
+         "page":15294
       },
       {
          "title":"Barlow, Francis C., 1871-1876, 1886",
-         "pages":"15295-15343"
+         "page":15295
       },
       {
          "title":"Lewis, E. B.",
-         "pages":"15344-15346"
+         "page":15344
       },
       {
          "title":"Churchill, F. H.",
-         "pages":"15347-15349"
+         "page":15347
       },
       {
          "title":"New,York Society Library",
-         "pages":"15350-15356"
+         "page":15350
       },
       {
          "title":"Yale University",
-         "pages":"15357-15361"
+         "page":15357
       },
       {
          "title":"Cole, Ashley W.",
-         "pages":"15362-15364"
+         "page":15362
       },
       {
          "title":"Butterworth, Samuel T.",
-         "pages":"15365-15368"
+         "page":15365
       },
       {
          "title":"Schell, Richard",
-         "pages":"15369-15370"
+         "page":15369
       },
       {
          "title":"Bancroft, George, 1864-1869, 1881-1886",
-         "pages":"15371-15413"
+         "page":15371
       },
       {
          "title":"Stetson, Francis Lynde",
-         "pages":"15414-15421"
+         "page":15414
       },
       {
          "title":"Homer, Peter T.",
-         "pages":"15422-15424"
+         "page":15422
       },
       {
          "title":"Carpenter, James",
-         "pages":"15425-15427"
+         "page":15425
       },
       {
          "title":"Black, Chauncey F.",
-         "pages":"15428-15441"
+         "page":15428
       },
       {
          "title":"Hoadley, George",
-         "pages":"15442-15496"
+         "page":15442
       },
       {
          "title":"Slocum, Henry Warner ",
-         "pages":"15497-15499"
+         "page":15497
       },
       {
          "title":"Mills, Roger Q.",
-         "pages":"15500-15502"
+         "page":15500
       },
       {
          "title":"Honig, Isaac",
-         "pages":"15503-15504"
+         "page":15503
       },
       {
          "title":"Hancock, Winfield Scott",
-         "pages":"15505-15539"
+         "page":15505
       },
       {
          "title":"Bingham, H.H.",
-         "pages":"15540-15544"
+         "page":15540
       },
       {
          "title":"Baylor, R., 1875",
-         "pages":"15545-15546"
+         "page":15545
       },
       {
          "title":"Hutchins, Stilson",
-         "pages":"15547-15558"
+         "page":15547
       },
       {
          "title":"Gordon, William W.",
-         "pages":"15559-15568"
+         "page":15559
       },
       {
          "title":"Walker, George",
-         "pages":"15569-15571"
+         "page":15569
       },
       {
          "title":"Sweat, Margaret J. M.",
-         "pages":"15572-15574"
+         "page":15572
       },
       {
          "title":"Varnum, James M.",
-         "pages":"15575-15579"
+         "page":15575
       },
       {
          "title":"Clerke, Thomas W.",
-         "pages":"15580-15585"
+         "page":15580
       },
       {
          "title":"Creamer, Thomas J.",
-         "pages":"15586-15586"
+         "page":15586
       },
       {
          "title":"Tucker, P.",
-         "pages":"15587-15588"
+         "page":15587
       },
       {
          "title":"Belmont, Perry",
-         "pages":"15589-15591"
+         "page":15589
       },
       {
          "title":"Fisher, W.R.",
-         "pages":"15592-15593"
+         "page":15592
       },
       {
          "title":"Gould, Jacob S.",
-         "pages":"15594-15597"
+         "page":15594
       },
       {
          "title":"Parker, George F.",
-         "pages":"15598-15612"
+         "page":15598
       },
       {
          "title":"Youmans, Edward Birdsall",
-         "pages":"15613-15621"
+         "page":15613
       },
       {
          "title":"Stillwell, Silas M.",
-         "pages":"15622-15625"
+         "page":15622
       },
       {
          "title":"Miggal, Edward",
-         "pages":"15626-15670"
+         "page":15626
       },
       {
          "title":"Hitchcock, J. R.",
-         "pages":"15671-15674"
+         "page":15671
       },
       {
          "title":"Prior, James J.",
-         "pages":"15675-15678"
+         "page":15675
       },
       {
          "title":"Dowdall, W. T.",
-         "pages":"15679-15680"
+         "page":15679
       },
       {
          "title":"Morrall, Cyrus",
-         "pages":"15681-15691"
+         "page":15681
       },
       {
          "title":"Woodford, Stewart L.",
-         "pages":"15692-15697"
+         "page":15692
       },
       {
          "title":"Martin, M. L.",
-         "pages":"15698-15698"
+         "page":15698
       },
       {
          "title":"McLaren, D.",
-         "pages":"15699-15700"
+         "page":15699
       },
       {
          "title":"Lowry, R. B.",
-         "pages":"15701-15703"
+         "page":15701
       },
       {
          "title":"Parker, S. H.",
-         "pages":"15704-15706"
+         "page":15704
       },
       {
          "title":"Morris, S. D.",
-         "pages":"15707-15709"
+         "page":15707
       },
       {
          "title":"Jones, Isaac",
-         "pages":"15710-15714"
+         "page":15710
       },
       {
          "title":"Hay, John Campbell",
-         "pages":"15715-15721"
+         "page":15715
       },
       {
          "title":"Kellog, John D.",
-         "pages":"15722-15736"
+         "page":15722
       },
       {
          "title":"Cooper, B. F.",
-         "pages":"15737-15739"
+         "page":15737
       },
       {
          "title":"Helper, Hinton Rowan",
-         "pages":"15740-15741"
+         "page":15740
       },
       {
          "title":"Dunlap, Thomas",
-         "pages":"15742-15744"
+         "page":15742
       },
       {
          "title":"Andrews, W. C., 1875",
-         "pages":"15745-15745"
+         "page":15745
       },
       {
          "title":"English, James E.",
-         "pages":"15746-15749"
+         "page":15746
       },
       {
          "title":"Smith, Perry H. Jr. {1865 , 1885",
-         "pages":"15750-15762"
+         "page":15750
       },
       {
          "title":"Hackett, John K.",
-         "pages":"15763-15784"
+         "page":15763
       },
       {
          "title":"Lathrop, F. A.",
-         "pages":"15785-15787"
+         "page":15785
       },
       {
          "title":"Keep, Henry",
-         "pages":"15788-15789"
+         "page":15788
       },
       {
          "title":"Poor, Henry V.",
-         "pages":"15790-15793"
+         "page":15790
       },
       {
          "title":"Kelly, John",
-         "pages":"15794-15869"
+         "page":15794
       },
       {
          "title":"Mitchell, Alexander",
-         "pages":"15870-15875"
+         "page":15870
       },
       {
          "title":"Vilas, William M.",
-         "pages":"15876-15881"
+         "page":15876
       },
       {
          "title":"Tyler, Nathaniel",
-         "pages":"15882-15883"
+         "page":15882
       },
       {
          "title":"Fowler, W.",
-         "pages":"15884-15885"
+         "page":15884
       },
       {
          "title":"Peck, Daniel",
-         "pages":"15886-15889"
+         "page":15886
       },
       {
          "title":"Wilson, J.",
-         "pages":"15890-15891"
+         "page":15890
       },
       {
          "title":"Delevan, Daniel E.",
-         "pages":"15892-15892"
+         "page":15892
       },
       {
          "title":"Burwell, D.",
-         "pages":"15893-15905"
+         "page":15893
       },
       {
          "title":"Green, Lucy M.",
-         "pages":"15906-15909"
+         "page":15906
       },
       {
          "title":"Thurstone, William",
-         "pages":"15910-15912"
+         "page":15910
       },
       {
          "title":"Wilmer, Joseph P.",
-         "pages":"15913-15915"
+         "page":15913
       },
       {
          "title":"Pierce, Franklin",
-         "pages":"15916-15935"
+         "page":15916
       },
       {
          "title":"Henry, Joshua J.",
-         "pages":"15936-15943"
+         "page":15936
       },
       {
          "title":"Phelps, William Walter",
-         "pages":"15944-15945"
+         "page":15944
       },
       {
          "title":"Tapley, John",
-         "pages":"15946-15948"
+         "page":15946
       },
       {
          "title":"Benton, C. G.",
-         "pages":"15949-15954"
+         "page":15949
       },
       {
          "title":"Bech, Friedrich",
-         "pages":"15955-15956"
+         "page":15955
       },
       {
          "title":"Caldwell, A. B.",
-         "pages":"15957-15959"
+         "page":15957
       },
       {
          "title":"Ringgold, James Trapier",
-         "pages":"15960-15960"
+         "page":15960
       },
       {
          "title":"Beardsley, C.S.",
-         "pages":"15961-15964"
+         "page":15961
       },
       {
          "title":"Fish, J.D.",
-         "pages":"15965-15969"
+         "page":15965
       },
       {
          "title":"Morgan, Geoge W.",
-         "pages":"15970-15989"
+         "page":15970
       },
       {
          "title":"Randall, Samuel J.",
-         "pages":"15990-16233"
+         "page":15990
       },
       {
          "title":"Gallaudet, Thomas",
-         "pages":"16234-16238"
+         "page":16234
       },
       {
          "title":"Mathews & Longyear",
-         "pages":"16239-16239"
+         "page":16239
       },
       {
          "title":"Jones, Aurelia Anna",
-         "pages":"16240-16241"
+         "page":16240
       },
       {
          "title":"Kalbfleisch, Martin",
-         "pages":"16242-16251"
+         "page":16242
       },
       {
          "title":"Bleecker, Anthony",
-         "pages":"16252-16273"
+         "page":16252
       },
       {
          "title":"McCreary, James B.",
-         "pages":"16274-16286"
+         "page":16274
       },
       {
          "title":"Scanendoah, Daniel",
-         "pages":"16287-16287"
+         "page":16287
       },
       {
          "title":"Cleveland, Brown & Co.",
-         "pages":"16288-16305"
+         "page":16288
       },
       {
          "title":"Bedle, Joseph Dorsett",
-         "pages":"16306-16318"
+         "page":16306
       },
       {
          "title":"Brooks, James",
-         "pages":"16319-16325"
+         "page":16319
       },
       {
          "title":"Maclean, Edward P.",
-         "pages":"16326-16327"
+         "page":16326
       },
       {
          "title":"Carter, James C. ",
-         "pages":"16328-16403"
+         "page":16328
       },
       {
          "title":"Hart, J. C. ",
-         "pages":"16404-16405"
+         "page":16404
       },
       {
          "title":"Fleet, Joshua",
-         "pages":"16406-16408"
+         "page":16406
       },
       {
          "title":"Butterfield, Daniel",
-         "pages":"16409-16419"
+         "page":16409
       },
       {
          "title":"McLaughlin, Hugh",
-         "pages":"16420-16475"
+         "page":16420
       },
       {
          "title":"Root, R. C.",
-         "pages":"16476-16485"
+         "page":16476
       },
       {
          "title":"McElroy, C. T.",
-         "pages":"16486-16487"
+         "page":16486
       },
       {
          "title":"Barnes, George T., 1880",
-         "pages":"16488-16490"
+         "page":16488
       },
       {
          "title":"Carpentier, J. S.",
-         "pages":"16491-16491"
+         "page":16491
       },
       {
          "title":"Randall, Robert E.",
-         "pages":"16492-16493"
+         "page":16492
       },
       {
          "title":"Hathorn & Southgate",
-         "pages":"16494-16497"
+         "page":16494
       },
 
 

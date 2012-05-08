@@ -25,47 +25,47 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Constituent letters, 1876 November 11-13",
-         "pages":"1-206"
+         "page":1
       },
       {
          "title":"Constituent letters, 1877 March-December",
-         "pages":"207-316"
+         "page":207
       },
       {
          "title":"Constituent letters, 1878",
-         "pages":"317-348"
+         "page":317
       },
       {
          "title":"Constituent letters, 1876 December 20-31",
-         "pages":"349-539"
+         "page":349
       },
       {
          "title":"Constituent letters, 1876 November 14-18",
-         "pages":"540-647"
+         "page":540
       },
       {
          "title":"Constituent letters, 1876  December 12-19",
-         "pages":"648-908"
+         "page":648
       },
       {
          "title":"Constituent letters, 1876 November 19-23",
-         "pages":"909-977"
+         "page":909
       },
       {
          "title":"Constituent letters, 1876 December 1-11",
-         "pages":"978-1196"
+         "page":978
       },
       {
          "title":"Constituent letters, 1876 November 24-30",
-         "pages":"1197-1283"
+         "page":1197
       },
       {
          "title":"Constituent letters, 1877 February",
-         "pages":"1284-1392"
+         "page":1284
       },
       {
          "title":"Constituent letters, 1877 January",
-         "pages":"1393-1496"
+         "page":1393
       },
 
 

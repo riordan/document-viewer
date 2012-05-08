@@ -25,155 +25,155 @@ DV.loadJSON({
    "sections":[
       {
          "title":"New York sheriff's bill",
-         "pages":"1-19"
+         "page":1
       },
       {
          "title":"Disbandement of 79th Regiment",
-         "pages":"20-45"
+         "page":20
       },
       {
          "title":"Railroads and railway transportation",
-         "pages":"46-212"
+         "page":46
       },
       {
          "title":"Buffalo reassessment bill",
-         "pages":"213-260"
+         "page":213
       },
       {
          "title":"Police and Police justices bill",
-         "pages":"261-373"
+         "page":261
       },
       {
          "title":"Riverside Avenue bill",
-         "pages":"374-392"
+         "page":374
       },
       {
          "title":"Charter reform",
-         "pages":"393-398"
+         "page":393
       },
       {
          "title":"Public works bill",
-         "pages":"399-434"
+         "page":399
       },
       {
          "title":"Clinton County fisheries",
-         "pages":"435-458"
+         "page":435
       },
       {
          "title":"New capitol building",
-         "pages":"459-465"
+         "page":459
       },
       {
          "title":"Utica extension",
-         "pages":"466-478"
+         "page":466
       },
       {
          "title":"Court session efficiency bill",
-         "pages":"479-488"
+         "page":479
       },
       {
          "title":"Binghampton Inebriate Asylum",
-         "pages":"489-523"
+         "page":489
       },
       {
          "title":"Monroe County treasurer's bill",
-         "pages":"524-538"
+         "page":524
       },
       {
          "title":"Greenpoint ferry bill",
-         "pages":"539-569"
+         "page":539
       },
       {
          "title":"Rochester charter amendments",
-         "pages":"570-609"
+         "page":570
       },
       {
          "title":"Proposed municipal college in Central Park",
-         "pages":"610-618"
+         "page":610
       },
       {
          "title":"Docks, wharves and slips",
-         "pages":"619-660"
+         "page":619
       },
       {
          "title":"Emigration",
-         "pages":"661-683"
+         "page":661
       },
       {
          "title":"Pardons requested",
-         "pages":"684-741"
+         "page":684
       },
       {
          "title":"New Brighton dock bill",
-         "pages":"742-790"
+         "page":742
       },
       {
          "title":"Old Soldiers claims",
-         "pages":"791-808"
+         "page":791
       },
       {
          "title":"Salt springs",
-         "pages":"809-825"
+         "page":809
       },
       {
          "title":"Prisons and prison reform",
-         "pages":"826-908"
+         "page":826
       },
       {
          "title":"Asylums",
-         "pages":"909-967"
+         "page":909
       },
       {
          "title":"Pilotage bill",
-         "pages":"968-978"
+         "page":968
       },
       {
          "title":"Greenwich Elevated Railroad",
-         "pages":"979-1018"
+         "page":979
       },
       {
          "title":"Topographical survey",
-         "pages":"1019-1038"
+         "page":1019
       },
       {
          "title":"Seneca Falls charter",
-         "pages":"1039-1087"
+         "page":1039
       },
       {
          "title":"Adulterated milk bill",
-         "pages":"1088-1136"
+         "page":1088
       },
       {
          "title":"Hay bailing bill",
-         "pages":"1137-1165"
+         "page":1137
       },
       {
          "title":"Safe deposit bill",
-         "pages":"1166-1193"
+         "page":1166
       },
       {
          "title":"Manhattan Loan & Trust Company",
-         "pages":"1194-1207"
+         "page":1194
       },
       {
          "title":"Brooklyn assessment bills",
-         "pages":"1208-1362"
+         "page":1208
       },
       {
          "title":"Education",
-         "pages":"1363-1379"
+         "page":1363
       },
       {
          "title":"Washington Ironworks bill",
-         "pages":"1380-1394"
+         "page":1380
       },
       {
          "title":"Insurance",
-         "pages":"1395-1415"
+         "page":1395
       },
       {
          "title":"West Point bill",
-         "pages":"1416-1443"
+         "page":1416
       },
 
 

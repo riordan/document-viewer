@@ -25,15 +25,15 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Canals, 1876",
-         "pages":"1-52"
+         "page":1
       },
       {
          "title":"Canals, 1874",
-         "pages":"53-102"
+         "page":53
       },
       {
          "title":"Canals, 1875",
-         "pages":"103-255"
+         "page":103
       },
 
 

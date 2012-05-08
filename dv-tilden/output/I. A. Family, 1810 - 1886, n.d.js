@@ -25,215 +25,215 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Tilden, Elam, 1834 Jan-Jul",
-         "pages":"1-102"
+         "page":1
       },
       {
          "title":"Tilden, Henry A., 1832 - 1885",
-         "pages":"103-246"
+         "page":103
       },
       {
          "title":"Doubleday, Cynthia, 1828, 1847",
-         "pages":"247-251"
+         "page":247
       },
       {
          "title":"Tilden, Elam, 1839 Jul-Dec (ca 1830s undated)",
-         "pages":"252-363"
+         "page":252
       },
       {
          "title":"West, M.P., 1835 - 1836",
-         "pages":"364-368"
+         "page":364
       },
       {
          "title":"Tilden, Samuel J. - unidentified drafts, 1852-1883",
-         "pages":"369-503"
+         "page":369
       },
       {
          "title":"Pelton, Mary B. (Tilden),  n.d.",
-         "pages":"504-561"
+         "page":504
       },
       {
          "title":"Tylden, Elanore, undated",
-         "pages":"562-569"
+         "page":562
       },
       {
          "title":"Tylden, Harriet, 1878, 1881 - 1886",
-         "pages":"570-637"
+         "page":570
       },
       {
          "title":"Tilden, Elam, 1836 May-Dec",
-         "pages":"638-767"
+         "page":638
       },
       {
          "title":"Tilden, Elam, 1842",
-         "pages":"768-797"
+         "page":768
       },
       {
          "title":"Tilden, Mary, 1883",
-         "pages":"798-804"
+         "page":798
       },
       {
          "title":"Tilden, Polly Younglove (Jones), 1833 - 1852, n.d.",
-         "pages":"805-855"
+         "page":805
       },
       {
          "title":"Tilden, Elam, 1810-1830",
-         "pages":"856-866"
+         "page":856
       },
       {
          "title":"Tilden, Elam, 1840 May-Dec",
-         "pages":"867-1040"
+         "page":867
       },
       {
          "title":"Tilden, Elam, 1837 Jan-Apr",
-         "pages":"1041-1157"
+         "page":1041
       },
       {
          "title":"Tilden, Moses Younglove, 1844-1869",
-         "pages":"1158-1224"
+         "page":1158
       },
       {
          "title":"Tilden, Elam, 1833",
-         "pages":"1225-1324"
+         "page":1225
       },
       {
          "title":"Tilden, Samuel J. - unidentified drafts, 1833 - 1846",
-         "pages":"1325-1383"
+         "page":1325
       },
       {
          "title":"Ward, Henry Dana Artemas, 1841 - 1876",
-         "pages":"1384-1407"
+         "page":1384
       },
       {
          "title":"Tilden, Henry A., undated",
-         "pages":"1408-1532"
+         "page":1408
       },
       {
          "title":"Unidentified aunt, 1832 -  1846, n.d.",
-         "pages":"1533-1541"
+         "page":1533
       },
       {
          "title":"Barnes, Julia, 1834 - 1839, n.d.",
-         "pages":"1542-1558"
+         "page":1542
       },
       {
          "title":"Tilden, Elam, 1836 Jan-Apr",
-         "pages":"1559-1686"
+         "page":1559
       },
       {
          "title":"Tylden, William, 1884",
-         "pages":"1687-1694"
+         "page":1687
       },
       {
          "title":"Tilden, Elam, undated",
-         "pages":"1695-1779"
+         "page":1695
       },
       {
          "title":"Tilden, Moses Younglove, undated",
-         "pages":"1780-1908"
+         "page":1780
       },
       {
          "title":"Younglove, Polly Patterson, 1835, 1843, n.d.",
-         "pages":"1909-1925"
+         "page":1909
       },
       {
          "title":"Tilden, Elam, 1839 Jan-June",
-         "pages":"1926-2051"
+         "page":1926
       },
       {
          "title":"Tilden, Samuel D., 1876",
-         "pages":"2052-2053"
+         "page":2052
       },
       {
          "title":"Barnes, Henrietta, 1833 - 1834",
-         "pages":"2054-2059"
+         "page":2054
       },
       {
          "title":"Tilden, Henrietta, 1830, 1835 - 1839, n.d.",
-         "pages":"2060-2085"
+         "page":2060
       },
       {
          "title":"Tilden, Moses Younglove, 1832-1839",
-         "pages":"2086-2173"
+         "page":2086
       },
       {
          "title":"Tilden, Elam, 1838",
-         "pages":"2174-2279"
+         "page":2174
       },
       {
          "title":"Tylden, Richard, 1884",
-         "pages":"2280-2283"
+         "page":2280
       },
       {
          "title":"Tilden, Elam, 1835",
-         "pages":"2284-2428"
+         "page":2284
       },
       {
          "title":"Pelton, Mary B. (Tilden), 1832 - 1850, 1884",
-         "pages":"2429-2547"
+         "page":2429
       },
       {
          "title":"Tilden, Samuel J. - unidentified drafts, undated",
-         "pages":"2548-2577"
+         "page":2548
       },
       {
          "title":"Tilden, Elam, 1837 May-Dec",
-         "pages":"2578-2666"
+         "page":2578
       },
       {
          "title":"Tilden, Elam, 1832",
-         "pages":"2667-2743"
+         "page":2667
       },
       {
          "title":"Tilden, George H., 1884, 1891",
-         "pages":"2744-2754"
+         "page":2744
       },
       {
          "title":"Tilden, Elam, 1841 May-Dec",
-         "pages":"2755-2820"
+         "page":2755
       },
       {
          "title":"Tilden, Caroline M., 1882",
-         "pages":"2821-2825"
+         "page":2821
       },
       {
          "title":"Jones, John Patterson, 1832, 1841 - 1846",
-         "pages":"2826-2855"
+         "page":2826
       },
       {
          "title":"Barnes, Parthenia, 1832 - 1844, n.d.",
-         "pages":"2856-2946"
+         "page":2856
       },
       {
          "title":"Tilden, Elam, 1840 Jan-Apr",
-         "pages":"2947-3068"
+         "page":2947
       },
       {
          "title":"Pelton, William Tilden, 1861 - 1878, n.d.",
-         "pages":"3069-3182"
+         "page":3069
       },
       {
          "title":"Tilden, Elam, 1834 Jul-Dec",
-         "pages":"3183-3251"
+         "page":3183
       },
       {
          "title":"Tilden, J.B., 1838, 1844",
-         "pages":"3252-3256"
+         "page":3252
       },
       {
          "title":"Tilden, Samuel Jones Junior, 1885 - 1886",
-         "pages":"3257-3264"
+         "page":3257
       },
       {
          "title":"Tilden, George F., 1832-1835",
-         "pages":"3265-3303"
+         "page":3265
       },
       {
          "title":"Tilden, Elam, 1841 Jan-Apr",
-         "pages":"3304-3441"
+         "page":3304
       },
       {
          "title":"Tilden, Moses Younglove, 1840-1843",
-         "pages":"3442-3528"
+         "page":3442
       },
 
 

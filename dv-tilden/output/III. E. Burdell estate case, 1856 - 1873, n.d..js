@@ -25,7 +25,7 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Marriage Certificate [between Harvey Burdell and Emma Augusta Cunningham], October 28th, 1856.",
-         "pages":"1-1"
+         "page":1
       },
 
 

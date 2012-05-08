@@ -25,103 +25,103 @@ DV.loadJSON({
    "sections":[
       {
          "title":"G.P. Putnam's Sons",
-         "pages":"1-8"
+         "page":1
       },
       {
          "title":"Little, Brown & Co.",
-         "pages":"9-46"
+         "page":9
       },
       {
          "title":"Beatty & Stevenson",
-         "pages":"47-58"
+         "page":47
       },
       {
          "title":"Bibliopole/Henry K. Van Siclen",
-         "pages":"59-119"
+         "page":59
       },
       {
          "title":"R. Worthington Publishers",
-         "pages":"120-132"
+         "page":120
       },
       {
          "title":"Grant, F. E.",
-         "pages":"133-153"
+         "page":133
       },
       {
          "title":"Joel Munsell's Sons",
-         "pages":"154-162"
+         "page":154
       },
       {
          "title":"Miscellaneous booksellers and publishers, 1882-1883",
-         "pages":"163-310"
+         "page":163
       },
       {
          "title":"Miscellaneous booksellers and publishers, 1876-1881",
-         "pages":"311-373"
+         "page":311
       },
       {
          "title":"Cassell, Petter, Galpin & Co.",
-         "pages":"374-382"
+         "page":374
       },
       {
          "title":"Scribner & Welford/Scribner's Sons",
-         "pages":"383-793"
+         "page":383
       },
       {
          "title":"Smith, Mrs. G. C.",
-         "pages":"794-810"
+         "page":794
       },
       {
          "title":"Barrie, George",
-         "pages":"811-816"
+         "page":811
       },
       {
          "title":"J.W. Bouton Booksellers, 1883",
-         "pages":"817-930"
+         "page":817
       },
       {
          "title":"J.W. Bouton Booksellers, 1885-1886",
-         "pages":"931-976"
+         "page":931
       },
       {
          "title":"Littlefield, George E.",
-         "pages":"977-985"
+         "page":977
       },
       {
          "title":"J.W. Bouton Booksellers, 1884",
-         "pages":"986-1168"
+         "page":986
       },
       {
          "title":"Estes & Lauriat",
-         "pages":"1169-1176"
+         "page":1169
       },
       {
          "title":"J. & H.G. Langley",
-         "pages":"1177-1178"
+         "page":1177
       },
       {
          "title":"Miscellaneous booksellers and publishers, 1884-1886",
-         "pages":"1179-1323"
+         "page":1179
       },
       {
          "title":"Brentano Brothers",
-         "pages":"1324-1355"
+         "page":1324
       },
       {
          "title":"D. Lothrop & Co.",
-         "pages":"1356-1364"
+         "page":1356
       },
       {
          "title":"Van Nostrand, D.",
-         "pages":"1365-1370"
+         "page":1365
       },
       {
          "title":"The Century Company",
-         "pages":"1371-1378"
+         "page":1371
       },
       {
          "title":"J.W. Bouton Booksellers, 1860 - 1881",
-         "pages":"1379-1448"
+         "page":1379
       },
 
 

@@ -25,23 +25,23 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Chicago & Great Northern Railway",
-         "pages":"1-5"
+         "page":1
       },
       {
          "title":"Illinois Central Railroad Co.",
-         "pages":"6-10"
+         "page":6
       },
       {
          "title":"Chicago & Great Western Railway",
-         "pages":"11-12"
+         "page":11
       },
       {
          "title":"Metropolitan Railway",
-         "pages":"13-29"
+         "page":13
       },
       {
          "title":"Montclair & Greenwood Lake Railway Co.",
-         "pages":"30-31"
+         "page":30
       },
 
 

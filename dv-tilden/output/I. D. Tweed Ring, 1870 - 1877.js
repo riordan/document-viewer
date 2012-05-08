@@ -25,31 +25,31 @@ DV.loadJSON({
    "sections":[
       {
          "title":"I. D. Tweed Ring, 1876-1877",
-         "pages":"1-208"
+         "page":1
       },
       {
          "title":"I. D. Tweed Ring, 1872 March",
-         "pages":"209-337"
+         "page":209
       },
       {
          "title":"I. D. Tweed Ring, 1871 Nov-Dec and undated",
-         "pages":"338-669"
+         "page":338
       },
       {
          "title":"I. D. Tweed Ring, 1870 Jun-1871 Oct",
-         "pages":"670-919"
+         "page":670
       },
       {
          "title":"I. D. Tweed Ring, 1874-1875",
-         "pages":"920-1205"
+         "page":920
       },
       {
          "title":"I. D. Tweed Ring, 1872 Apr-1873 Dec",
-         "pages":"1206-1475"
+         "page":1206
       },
       {
          "title":"I. D. Tweed Ring, 1872 Jan-Feb",
-         "pages":"1476-1689"
+         "page":1476
       },
 
 

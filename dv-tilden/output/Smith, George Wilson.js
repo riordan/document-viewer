@@ -25,31 +25,31 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Letterpress copybook, 1874-1875",
-         "pages":"1-479"
+         "page":1
       },
       {
          "title":"Letterpress copybook, 1870-1874",
-         "pages":"480-943"
+         "page":480
       },
       {
          "title":"Correspondence with Samuel J. Tilden",
-         "pages":"944-1110"
+         "page":944
       },
       {
          "title":"Telegrams relating to 1880 Democratic National Convention",
-         "pages":"1111-1144"
+         "page":1111
       },
       {
          "title":"Correspondence with Daniel Manning",
-         "pages":"1145-1162"
+         "page":1145
       },
       {
          "title":"Letters received",
-         "pages":"1163-1234"
+         "page":1163
       },
       {
          "title":"Correspondence with Manton Marble",
-         "pages":"1235-1264"
+         "page":1235
       },
 
 

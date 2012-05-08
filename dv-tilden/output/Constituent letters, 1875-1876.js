@@ -25,35 +25,35 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Constituent letters, 1876 Nov 1-7",
-         "pages":"1-172"
+         "page":1
       },
       {
          "title":"Constituent letters, 1876 Oct",
-         "pages":"173-346"
+         "page":173
       },
       {
          "title":"Constituent letters, 1875",
-         "pages":"347-432"
+         "page":347
       },
       {
          "title":"Constituent letters, 1876 Nov 8",
-         "pages":"433-660"
+         "page":433
       },
       {
          "title":"Constituent letters, 1876 Nov 9-10",
-         "pages":"661-970"
+         "page":661
       },
       {
          "title":"Constituent letters, 1876 Jan-Jun",
-         "pages":"971-1112"
+         "page":971
       },
       {
          "title":"Constituent letters, 1876 Aug-Sep",
-         "pages":"1113-1296"
+         "page":1113
       },
       {
          "title":"Constituent letters, 1876 July",
-         "pages":"1297-1490"
+         "page":1297
       },
 
 

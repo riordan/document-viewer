@@ -25,7 +25,7 @@ DV.loadJSON({
    "sections":[
       {
          "title":"TITLE",
-         "pages":"1-1"
+         "page":1
       },
 
 

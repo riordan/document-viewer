@@ -25,19 +25,19 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Calling cards",
-         "pages":"1-19"
+         "page":1
       },
       {
          "title":"Genealogical research",
-         "pages":"20-131"
+         "page":20
       },
       {
          "title":"Coastal defense",
-         "pages":"132-187"
+         "page":132
       },
       {
          "title":"Greystone Jersey cattle",
-         "pages":"188-220"
+         "page":188
       },
 
 

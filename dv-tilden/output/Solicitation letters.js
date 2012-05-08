@@ -25,15 +25,15 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Solicitation letters, 1884-1886 and undated",
-         "pages":"1-28"
+         "page":1
       },
       {
          "title":"Solicitation letters, 1883",
-         "pages":"29-315"
+         "page":29
       },
       {
          "title":"Solicitation letters, 1854-1882",
-         "pages":"316-334"
+         "page":316
       },
 
 

@@ -25,7 +25,7 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Canal Ring",
-         "pages":"1-472"
+         "page":1
       },
 
 

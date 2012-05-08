@@ -25,7 +25,7 @@ DV.loadJSON({
    "sections":[
       {
          "title":"I. C. Counsel of the Corporation, 1843-1844",
-         "pages":"1-81"
+         "page":1
       },
 
 

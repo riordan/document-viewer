@@ -25,27 +25,27 @@ DV.loadJSON({
    "sections":[
       {
          "title":"General legislative correspondence, 1874",
-         "pages":"1-53"
+         "page":1
       },
       {
          "title":"General legislative correspondence, 1875 June - December",
-         "pages":"54-260"
+         "page":54
       },
       {
          "title":"General legislative correspondence, 1876 April - December",
-         "pages":"261-360"
+         "page":261
       },
       {
          "title":"General legislative correspondence, 1875 January - April",
-         "pages":"361-458"
+         "page":361
       },
       {
          "title":"General legislative correspondence, 1876 January - March",
-         "pages":"459-563"
+         "page":459
       },
       {
          "title":"General legislative correspondence, 1875 May",
-         "pages":"564-677"
+         "page":564
       },
 
 

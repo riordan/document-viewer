@@ -25,11 +25,11 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Fire commissioners investigation",
-         "pages":"1-63"
+         "page":1
       },
       {
          "title":"Judicial misconduct",
-         "pages":"64-133"
+         "page":64
       },
 
 

@@ -63,8 +63,8 @@ def writeJSON(outfile, seriesName, folders):
       printSections += '''
       {
          "title":"%s",
-         "pages":"%d-%d"
-      },''' %(sName, page, page + sLen -1)
+         "page":%d
+      },''' %(sName, page)
       page += sLen
 
    print printSections

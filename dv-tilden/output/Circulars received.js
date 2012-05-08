@@ -25,15 +25,15 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Circulars, 1853-1859 ",
-         "pages":"1-33"
+         "page":1
       },
       {
          "title":"Circulars, 1840-1848",
-         "pages":"34-90"
+         "page":34
       },
       {
          "title":"Circulars, 1860-1885 and undated",
-         "pages":"91-150"
+         "page":91
       },
 
 

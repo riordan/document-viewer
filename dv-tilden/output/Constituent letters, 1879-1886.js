@@ -25,23 +25,23 @@ DV.loadJSON({
    "sections":[
       {
          "title":"Constituent letters, 1880 July - 1881 December",
-         "pages":"1-39"
+         "page":1
       },
       {
          "title":"Constituent letters, 1880 January-May",
-         "pages":"40-119"
+         "page":40
       },
       {
          "title":"Constituent letters, 1880 June",
-         "pages":"120-197"
+         "page":120
       },
       {
          "title":"Constituent letters, 1882-1886",
-         "pages":"198-241"
+         "page":198
       },
       {
          "title":"Constituent letters, 1879",
-         "pages":"242-323"
+         "page":242
       },
 
 
