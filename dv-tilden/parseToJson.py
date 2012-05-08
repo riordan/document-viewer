@@ -46,10 +46,34 @@ def writeJSON(outfile, seriesName, folders):
    f = open('output/'+outfile+".js", 'w')
    # Get Folder List
    uuidList = []
+   sectionList = []
    for folderName, folderImages in folders.iteritems():
-      uuidList.append(folderImages.images)
-   f.write(baseString %(outfile, outfile))
+      for i in folderImages.images:
+         uuidList.append(i)
+      sectionList.append((folderName, len(folderImages.images)))
+
+   
+   #Let's generate some sections up in this JSON!
+
+   printSections = ""
+
+   page = 1
+   for s in sectionList:
+      sName, sLen = s
+      printSections += '''
+      {
+         "title":"%s",
+         "pages":"%d-%d"
+      },''' %(sName, page, page + sLen -1)
+      page += sLen
+
+   print printSections
+
+
+   #Output to js file. Filename must align with ID paramater otherwise it'll reject
+   f.write(baseString %(outfile, outfile, uuidList, printSections))
    f.close
+   
 
 
 
