@@ -44,6 +44,15 @@ def writeJSON(outfile, seriesName, folders):
    baseString = b.read()
    b.close()
    f = open('output/'+outfile+".js", 'w')
+   vt = open('tildenTemplateViewer.html', 'r')
+   viewerTemplate = vt.read()
+   vt.close()
+   viewer = open('../tildenviewers/'+outfile+'.html','w')
+   print seriesName
+   print outfile
+   tilView = viewerTemplate %(seriesName,outfile)
+   viewer.write(tilView)
+   viewer.close()
    # Get Folder List
    uuidList = []
    sectionList = []
